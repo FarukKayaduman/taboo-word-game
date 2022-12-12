@@ -132,7 +132,7 @@ public class GameManager : MonoBehaviour
     private void LoadWordsFromJson()
     {
         // Place your json file into Asset/Resources folder and update jsonFileName string
-        string jsonFileName = "testWords";
+        string jsonFileName = "words-tr";
         TextAsset jsonTextAsset = Resources.Load(jsonFileName) as TextAsset;
         if (jsonTextAsset == null)
         {

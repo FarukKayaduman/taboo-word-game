@@ -9,34 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0863bf92b4fcc45b0b9267325249bf0f, type: 3}
+  m_Script: {fileID: 0}
   m_Name: NotificationSettings
   m_EditorClassIdentifier: 
-  toolbarInt: 0
-  iOSNotificationEditorSettingsValues:
-    keys:
-    - UnityNotificationRequestAuthorizationOnAppLaunch
-    - UnityNotificationDefaultAuthorizationOptions
-    - UnityAddRemoteNotificationCapability
-    - UnityNotificationRequestAuthorizationForRemoteNotificationsOnAppLaunch
-    - UnityRemoteNotificationForegroundPresentationOptions
-    - UnityUseAPSReleaseEnvironment
-    - UnityUseLocationNotificationTrigger
-    values:
-    - True
-    - 7
-    - False
-    - False
-    - -1
-    - False
-    - False
-  AndroidNotificationEditorSettingsValues:
-    keys:
-    - UnityNotificationAndroidRescheduleOnDeviceRestart
-    - UnityNotificationAndroidUseCustomActivity
-    - UnityNotificationAndroidCustomActivityString
-    values:
-    - False
-    - False
-    - com.unity3d.player.UnityPlayerActivity
-  TrackedResourceAssets: []

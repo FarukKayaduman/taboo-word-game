@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Networking;
 
 public class GameManager : MonoBehaviour
 {
@@ -12,7 +14,7 @@ public class GameManager : MonoBehaviour
         public List<string> TabooWords { get; set; }
     }
 
-    private List<TabooData> tabooData;
+    public static List<TabooData> tabooData;
 
     [SerializeField] private TextMeshProUGUI mainWordText;
     [SerializeField] private List<TextMeshProUGUI> tabooWordsTexts;
@@ -36,6 +38,8 @@ public class GameManager : MonoBehaviour
     private int currentPassLimit;
     private float gameTime;
 
+    public static string jsonString;
+
     private void OnEnable()
     {
         if (!PlayerPrefs.HasKey("ScoreTeamA"))
@@ -55,7 +59,6 @@ public class GameManager : MonoBehaviour
         currentScoreText.text = "0";
 
         SetPassLimit();
-        LoadWordsFromJson();
     }
 
     private void Update()
@@ -128,21 +131,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // Load json string and deserialize it to TabooData class. Store them in List<TabooData>
-    private void LoadWordsFromJson()
-    {
-        // Place your json file into Asset/Resources folder and update jsonFileName string
-        string jsonFileName = "words-tr";
-        TextAsset jsonTextAsset = Resources.Load(jsonFileName) as TextAsset;
-        if (jsonTextAsset == null)
-        {
-            Debug.LogError( jsonFileName + ".json not found");
-            return;
-        }
-        string jsonString = jsonTextAsset.text;
-        tabooData = JsonConvert.DeserializeObject<List<TabooData>>(jsonString);
-    }
-
     public void OnStartButtonClicked()
     {
         if (!gameStarted)
@@ -194,5 +182,4 @@ public class GameManager : MonoBehaviour
         currentScore += 1;
         currentScoreText.text = currentScore.ToString();
     }
-
 }

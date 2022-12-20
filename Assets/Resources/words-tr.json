@@ -1,5 +1,541 @@
 [
     {
+        "word": "Uyak",
+        "tabooWords": [ "Şiir", "Dizi", "Benzerlik", "Kafiye", "Ses" ]
+    },
+    {
+        "word": "Kuşbakışı",
+        "tabooWords": [ "Harita", "Tepe", "Yukarı", "Kroki", "Görmek" ]
+    },
+    {
+        "word": "Fabl",
+        "tabooWords": [ "Hayvan", "La Fontaine", "Masal", "İnsan", "Hikaye" ]
+    },
+    {
+        "word": "Öneri",
+        "tabooWords": [ "Teklif", "Çözüm", "Yol", "Cümle", "İyi olur" ]
+    },
+    {
+        "word": "Mecaz",
+        "tabooWords": [ "Kelime", "Gerçek anlam", "Yan anlam", "Terim anlam", "Sözcük" ]
+    },
+    {
+        "word": "Fay",
+        "tabooWords": [ "Hat", "Deprem", "Kırılmak", "Sarsılmak", "Hayat üçgeni" ]
+    },
+    {
+        "word": "Varsayım",
+        "tabooWords": [ "Olmamış", "Tut ki", "Farz et", "Diyelim", "Cümle" ]
+    },
+    {
+        "word": "Paragraf",
+        "tabooWords": [ "Sınav", "Ana düşünce", "Yardımcı düşünce", "Soru", "Metin" ]
+    },
+    {
+        "word": "Anlatım biçimi",
+        "tabooWords": [ "Betimleme", "Öyküleme", "Tartışmacı", "Açıklayıcı", "Paragraf" ]
+    },
+    {
+        "word": "Abartma",
+        "tabooWords": [ "Mübalağa", "Aşırı", "Farklı", "Göstermek", "Olduğundan" ]
+    },
+    {
+        "word": "Koşul",
+        "tabooWords": [ "Şart", "Neden", "Cümle", "Eğer", "Sonuç" ]
+    },
+    {
+        "word": "Hayıflanma",
+        "tabooWords": [ "Pişmanlık", "Üzüntü", "Geçmiş", "Cümle", "Anlam" ]
+    },
+    {
+        "word": "Soyut",
+        "tabooWords": [ "Duyu", "Algılamak", "Görülmeyen", "İsim", "Somut" ]
+    },
+    {
+        "word": "Somut",
+        "tabooWords": [ "Duyu", "Algılamak", "Görülen", "İsim", "Soyut" ]
+    },
+    {
+        "word": "Terim",
+        "tabooWords": [ "Kelime", "Anlam", "Bilim", "Sanat", "Kavram" ]
+    },
+    {
+        "word": "Aheste",
+        "tabooWords": [ "Yavaş", "Ağır", "Hızlı", "Durgun", "Tembel" ]
+    },
+    {
+        "word": "Hece",
+        "tabooWords": [ "Kelime", "Harf", "Ses", "Okumak", "Yazı" ]
+    },
+    {
+        "word": "Avize",
+        "tabooWords": [ "Lamba", "Ampül", "Tavan", "Işık", "Aydınlık" ]
+    },
+    {
+        "word": "Koordinat",
+        "tabooWords": [ "Enlem", "Boylam", "Belirtmek", "Vermek", "Yer" ]
+    },
+    {
+        "word": "Baskül",
+        "tabooWords": [ "Tartı", "Kilo", "Boy", "Ölçü", "Ağır" ]
+    },
+    {
+        "word": "Harabe",
+        "tabooWords": [ "Yıkık", "Eski", "Tarihi", "Efes", "Antik" ]
+    },
+    {
+        "word": "Çaylak",
+        "tabooWords": [ "Acemi", "Deneyim", "Tecrübe", "Usta", "Hayat üçgeni" ]
+    },
+    {
+        "word": "Cemre",
+        "tabooWords": [ "Düşmek", "Hava", "Toprak", "Su", "Bahar" ]
+    },
+    {
+        "word": "Halüsinasyon",
+        "tabooWords": [ "Hayal", "Gerçek", "Görmek", "İllüzyon", "Serap" ]
+    },
+    {
+        "word": "Şamdan",
+        "tabooWords": [ "Mum", "Işık", "Aydınlık", "Yakmak", "Süs" ]
+    },
+    {
+        "word": "Korniş",
+        "tabooWords": [ "Tavan", "Perde", "Asmak", "Pencere", "Cam" ]
+    },
+    {
+        "word": "Armağan",
+        "tabooWords": [ "Hediye", "Vermek", "Almak", "Doğum günü", "Sevindirmek" ]
+    },
+    {
+        "word": "Pişmanlık",
+        "tabooWords": [ "Hata", "Üzülmek", "Yanlış", "Keşke", "Son" ]
+    },
+    {
+        "word": "Kumbara",
+        "tabooWords": [ "Para", "Biriktirmek", "Yatırım", "Banka", "Saklamak" ]
+    },
+    {
+        "word": "Antika",
+        "tabooWords": [ "Müzayede", "Zengin", "Eski", "Tablo", "Tarihi" ]
+    },
+    {
+        "word": "Sağdıç",
+        "tabooWords": [ "Damat", "Gelin", "Güvey", "Düğün", "Sırtına vurmak" ]
+    },
+    {
+        "word": "Satranç",
+        "tabooWords": [ "Şah-Mat", "Kale", "Vezir", "Fil", "Piyon" ]
+    },
+    {
+        "word": "Adem Elması",
+        "tabooWords": [ "Erkek", "Gırtlak", "Çıkıntı", "Boğaz", "Havva" ]
+    },
+    {
+        "word": "Paraşüt",
+        "tabooWords": [ "Uçak", "Atlamak", "Uçmak", "Balon", "Hava" ]
+    },
+    {
+        "word": "Balmumu",
+        "tabooWords": [ "Erimek", "Heykel", "Mum", "Müze", "Bal" ]
+    },
+    {
+        "word": "Fermuar",
+        "tabooWords": [ "Pantolon", "Mont", "Giysi", "Kıyafet", "Kot" ]
+    },
+    {
+        "word": "Kelebek",
+        "tabooWords": [ "Renkl,", "Koza", "Uçmak", "Tırtıl", "Bir gün" ]
+    },
+    {
+        "word": "Gökkuşağı",
+        "tabooWords": [ "Renkli", "Hava", "Güneş", "Yağmur", "Çeşit" ]
+    },
+    {
+        "word": "Mala",
+        "tabooWords": [ "İnşaat", "Duvar", "Usta", "Sıva", "Çimento" ]
+    },
+    {
+        "word": "Tiyatro",
+        "tabooWords": [ "Oyuncu", "Sahne", "Perde", "Oyun", "Suflör" ]
+    },
+    {
+        "word": "Bağlama",
+        "tabooWords": [ "Türkü", "Müzik", "Saz", "Tel", "Akort" ]
+    },
+    {
+        "word": "Dost",
+        "tabooWords": [ "Güven", "Samimi", "Dürüst", "Arkadaş", "Ahlaklı" ]
+    },
+    {
+        "word": "Dergi",
+        "tabooWords": [ "Gazete", "Mecmua", "Makale", "Yazı", "Kapak" ]
+    },
+    {
+        "word": "Kapan",
+        "tabooWords": [ "Tuzak", "Av", "Kurt", "Hayvan", "Fare" ]
+    },
+    {
+        "word": "Empati",
+        "tabooWords": [ "Kendini", "Başkası", "Yerine", "KoymaK", "Düşünme" ]
+    },
+    {
+        "word": "Hoşgörü",
+        "tabooWords": [ "Mevlana", "Anlayış", "Ne olursan", "Gel", "Empati" ]
+    },
+    {
+        "word": "Kişileştirme",
+        "tabooWords": [ "İnsan", "Fabl", "Hayvan", "Varlık", "Konuşturma" ]
+    },
+    {
+        "word": "Özçekim",
+        "tabooWords": [ "Selfie", "Telefon", "Kendi", "Fotoğraf", "Poz" ]
+    },
+    {
+        "word": "Ulema",
+        "tabooWords": [ "Bilgin", "Osmanlı", "Din", "Alim", "Hoca" ]
+    },
+    {
+        "word": "Bonkör",
+        "tabooWords": [ "Eli açık", "Cömert", "Para", "Gönlü zengin", "Harcamak" ]
+    },
+    {
+        "word": "Heybetli",
+        "tabooWords": [ "Yüce", "Dağ", "Yüksek", "İri", "Büyük" ]
+    },
+    {
+        "word": "Çıra",
+        "tabooWords": [ "Ateş", "Yakmak", "Odun", "Tahta", "Çay" ]
+    },
+    {
+        "word": "Mani",
+        "tabooWords": [ "Kısa", "Şiir", "Edebiyat", "Sakız", "Engel" ]
+    },
+    {
+        "word": "Fidan",
+        "tabooWords": [ "Ağaç", "Büyümek", "Küçük", "Orman", "Dikmek" ]
+    },
+    {
+        "word": "Pratik",
+        "tabooWords": [ "Kolay", "Zeka", "Çabuk", "Hızlı", "Çözüm" ]
+    },
+    {
+        "word": "Kıvılcım",
+        "tabooWords": [ "Ateş", "Kibrit", "Çakmak", "Taş", "Sürtmek" ]
+    },
+    {
+        "word": "Miskin",
+        "tabooWords": [ "Tembel", "Uyuşuk", "Yavaş", "Ağır", "Kedi" ]
+    },
+    {
+        "word": "Mesai",
+        "tabooWords": [ "Saat", "İş", "Fazla", "Akşam", "Kalmak" ]
+    },
+    {
+        "word": "Küremek",
+        "tabooWords": [ "Kar", "Ev", "Yol", "Buz", "Kış" ]
+    },
+    {
+        "word": "Köhne",
+        "tabooWords": [ "Eski", "Tarihi", "Yıkılmak", "Bina", "Harabe" ]
+    },
+    {
+        "word": "Yayık",
+        "tabooWords": [ "Ayran", "Su", "Yoğurt", "Çalkalamak", "Süt" ]
+    },
+    {
+        "word": "Akrostiş",
+        "tabooWords": [ "Şiir", "Mısra", "İsim", "İlk", "Kıta" ]
+    },
+    {
+        "word": "Bambu",
+        "tabooWords": [ "Sazlık", "Nesil", "Panda", "Mobilya", "Ağaç" ]
+    },
+    {
+        "word": "Yabani",
+        "tabooWords": [ "İlkel", "Yabani", "Hayat", "Orman", "Hayvan" ]
+    },
+    {
+        "word": "Yelpaze",
+        "tabooWords": [ "Sıcak", "Rüzgar", "Yaz", "Kadın", "Sallamak" ]
+    },
+    {
+        "word": "Göçmen",
+        "tabooWords": [ "Mülteci", "Vize", "Soğuk", "Kuş", "Sıcak" ]
+    },
+    {
+        "word": "Çuval",
+        "tabooWords": [ "Torba", "Doldurmak", "Yem", "Un", "Koymak" ]
+    },
+    {
+        "word": "Talimat",
+        "tabooWords": [ "Emir", "Vermek", "Fatura", "Banka", "Otomatik ödeme" ]
+    },
+    {
+        "word": "Siftah",
+        "tabooWords": [ "İlk", "Gün", "Satmak", "Mal", "Alışveriş" ]
+    },
+    {
+        "word": "Ajanda",
+        "tabooWords": [ "Defter", "Yazmak", "Gün", "İş", "Toplantı" ]
+    },
+    {
+        "word": "İştah",
+        "tabooWords": [ "Acıkmak", "Kesilmek", "Açmak", "Lezzet", "Yemek" ]
+    },
+    {
+        "word": "İhale",
+        "tabooWords": [ "Belediye", "Girmek", "Açmak", "Yolsuzluk", "Kazanmak" ]
+    },
+    {
+        "word": "Uyanık",
+        "tabooWords": [ "Akıllı", "Zeki", "Açıkgöz", "Kurnaz", "Saf" ]
+    },
+    {
+        "word": "Pasaklı",
+        "tabooWords": [ "Temiz", "Titiz", "Kirli", "Düzenli", "Karışık" ]
+    },
+    {
+        "word": "Hile",
+        "tabooWords": [ "Aldatmak", "Kandırmak", "Oyun", "Yapmak", "Kumar" ]
+    },
+    {
+        "word": "Halay",
+        "tabooWords": [ "Düğün", "Çekmek", "Oynamak", "Mendil", "Mahmut Tuncer" ]
+    },
+    {
+        "word": "Firar",
+        "tabooWords": [ "Kaçmak", "Hapis", "Asker", "Mahkum", "Etmek" ]
+    },
+    {
+        "word": "Plaket",
+        "tabooWords": [ "Ödül", "Vermek", "Tören", "Başarı", "Teşekkür" ]
+    },
+    {
+        "word": "Fular",
+        "tabooWords": [ "Eşarp", "Bağlamak", "Baş", "Boyun", "Kadın" ]
+    },
+    {
+        "word": "Kaos",
+        "tabooWords": [ "Karışıklık", "Ortam", "Kargaşa", "Düzen", "Yaratmak" ]
+    },
+    {
+        "word": "Sırık",
+        "tabooWords": [ "Uzun", "Atlamak", "Boy", "Atletizm", "Fasulye" ]
+    },
+    {
+        "word": "Staj",
+        "tabooWords": [ "Öğrenci", "Çalışmak", "Üniversite", "Tecrübe", "İş" ]
+    },
+    {
+        "word": "Arıza",
+        "tabooWords": [ "Bozuk", "Tamir", "Çalışmak", "Telefon", "Elektrik" ]
+    },
+    {
+        "word": "Tecrübe",
+        "tabooWords": [ "Kazanmak", "Deneyim", "Çalışmak", "İş", "Yıl" ]
+    },
+    {
+        "word": "Macun",
+        "tabooWords": [ "Cam", "Pencere", "Diş", "Mesir", "Kenar" ]
+    },
+    {
+        "word": "Suistimal",
+        "tabooWords": [ "İyi", "Niyet", "Kullanmak", "Faydalanmak", "Kötü" ]
+    },
+    {
+        "word": "Sıska",
+        "tabooWords": [ "Zayıf", "İnce", "Çelimsiz", "Şişman", "Hasta" ]
+    },
+    {
+        "word": "Yadigar",
+        "tabooWords": [ "Aile", "Hatıra", "Değerli", "Miras", "Bırakmak" ]
+    },
+    {
+        "word": "Esir",
+        "tabooWords": [ "Düşmek", "Tutsak", "Mahkum", "Kamp", "Savaş" ]
+    },
+    {
+        "word": "Mızıkçı",
+        "tabooWords": [ "Çocuk", "Küsmek", "Darılmak", "Bozmak", "Oyun" ]
+    },
+    {
+        "word": "Nadir",
+        "tabooWords": [ "Zor", "Az", "Bulmak", "Sık", "Çok" ]
+    },
+    {
+        "word": "Çavdar",
+        "tabooWords": [ "Arpa", "Tahıl", "Buğday", "Kepek", "Ekmek" ]
+    },
+    {
+        "word": "Buğu",
+        "tabooWords": [ "Buhar", "Cam", "Sıcak", "Su", "Araba" ]
+    },
+    {
+        "word": "Patika",
+        "tabooWords": [ "Yol", "Orman", "Kestirme", "Yürümek", "Dağ" ]
+    },
+    {
+        "word": "Veresiye",
+        "tabooWords": [ "Peşin", "Borç", "Ödemek", "Defter", "Satın almak" ]
+    },
+    {
+        "word": "Abluka",
+        "tabooWords": [ "Etraf", "Kuşatma", "Savaş", "Çevirmek", "Düşman" ]
+    },
+    {
+        "word": "Ucuzluk",
+        "tabooWords": [ "İndirim", "Pahalı", "Yüzde", "Fiyat", "Vitrin" ]
+    },
+    {
+        "word": "Performans",
+        "tabooWords": [ "Değerlendirme", "Başarı", "Ders", "Ödev", "Yüksek" ]
+    },
+    {
+        "word": "Güzergah",
+        "tabooWords": [ "Yol", "Araba", "Rota", "Servis", "Takip etmek" ]
+    },
+    {
+        "word": "Paranoya",
+        "tabooWords": [ "Şüphe", "Akıl", "Ruh", "Hastalık", "Deli" ]
+    },
+    {
+        "word": "Feshetmek",
+        "tabooWords": [ "Antlaşma", "Sözleşme", "İptal", "Geçersiz", "Bozmak" ]
+    },
+    {
+        "word": "Zeybek",
+        "tabooWords": [ "Atatürk", "Oyun", "Ege", "Efe", "Sarı" ]
+    },
+    {
+        "word": "Yadırgamak",
+        "tabooWords": [ "Garip", "Tuhaf", "Kabullenmek", "Şaşırmak", "Davranış" ]
+    },
+    {
+        "word": "Monoton",
+        "tabooWords": [ "Aynı", "Sıkıcı", "Sıradan", "Benzer", "Rutin" ]
+    },
+    {
+        "word": "Boşboğaz",
+        "tabooWords": [ "Konuşmak", "Geveze", "Söylemek", "Sır", "Anlatmak" ]
+    },
+    {
+        "word": "Diyar",
+        "tabooWords": [ "Memleket", "Vatan", "Dolaşmak", "Gezmek", "Aşık Veysel" ]
+    },
+    {
+        "word": "Doz",
+        "tabooWords": [ "Miktar", "İlaç", "Doktor", "Reçete", "Aşırı" ]
+    },
+    {
+        "word": "Porsiyon",
+        "tabooWords": [ "Yemek", "Tabak", "Lokanta", "Restorant", "Yarım" ]
+    },
+    {
+        "word": "Kabin",
+        "tabooWords": [ "Giyinmek", "Duş", "Denemek", "Mağaza", "Kıyafet" ]
+    },
+    {
+        "word": "Servet",
+        "tabooWords": [ "KAzanmak", "Zenginlik", "Mal", "Mülk", "Para" ]
+    },
+    {
+        "word": "Tedarik",
+        "tabooWords": [ "Bulmak", "Sağlamak", "Malzeme", "Etmek", "Hazırlık" ]
+    },
+    {
+        "word": "Tabure",
+        "tabooWords": [ "Oturmak", "Sandalye", "Koltuk", "Yemekhane", "Sırt" ]
+    },
+    {
+        "word": "Erezyon",
+        "tabooWords": [ "Toprak", "Kayma", "Ağaç", "Heyelan", "TEMA" ]
+    },
+    {
+        "word": "Çamaşır",
+        "tabooWords": [ "Kİrli", "Yıkamak", "Makine", "Deterjan", "Giymek" ]
+    },
+    {
+        "word": "Numune",
+        "tabooWords": [ "Örnek", "Vermek", "Tahlil", "Yemek", "Küçük" ]
+    },
+    {
+        "word": "Viran",
+        "tabooWords": [ "Eski", "Yıkık", "Harap", "Ev", "Köhne" ]
+    },
+    {
+        "word": "Kasvet",
+        "tabooWords": [ "Sıkıntı", "Gam", "Karanlık", "Aydınlık", "Neşe" ]
+    },
+    {
+        "word": "Miço",
+        "tabooWords": [ "Tayfa", "Gemi", "Kaptan", "Deniz", "Yardımcı" ]
+    },
+    {
+        "word": "Eskimo",
+        "tabooWords": [ "Kutup", "Buzul", "Kar", "Soğuk", "Balık" ]
+    },
+    {
+        "word": "Hamak",
+        "tabooWords": [ "Yatmak", "Ağaç", "Sallanmak", "Kurmak", "Piknik" ]
+    },
+    {
+        "word": "Gaddar",
+        "tabooWords": [ "Acımasız", "Sert", "Katı", "Merhamet", "İnsaf" ]
+    },
+    {
+        "word": "Çadır",
+        "tabooWords": [ "Kamp", "Uyku tulumu", "Kurmak", "Doğa", "Tatil" ]
+    },
+    {
+        "word": "Hasır",
+        "tabooWords": [ "Sepet", "Şapka", "Plaj", "Deniz", "Sermek" ]
+    },
+    {
+        "word": "Bukalemun",
+        "tabooWords": [ "Renk", "Hayvan", "Değiştirme", "Sürüngen", "Kertenkele" ]
+    },
+    {
+        "word": "Konvoy",
+        "tabooWords": [ "Araba", "Dizilmek", "Arka", "Düğün", "Sıra" ]
+    },
+    {
+        "word": "Takunya",
+        "tabooWords": [ "Tahta", "Terlik", "Ayakkabı", "Giymek", "Hamam" ]
+    },
+    {
+        "word": "Aksi",
+        "tabooWords": [ "Sinirli", "Ters", "Zıt", "Asabi", "Huysuz" ]
+    },
+    {
+        "word": "Vezne",
+        "tabooWords": [ "Banka", "Para", "Ödeme", "Almak", "Muhasebe" ]
+    },
+    {
+        "word": "Oluk",
+        "tabooWords": [ "Akmak", "Yağmur", "Kan", "Su", "Boru" ]
+    },
+    {
+        "word": "Cephe",
+        "tabooWords": [ "Savaş", "Ordu", "Asker", "Saldırmak", "Barış" ]
+    },
+    {
+        "word": "Çevik",
+        "tabooWords": [ "Kuvvet", "Polis", "Asker", "Güç", "Hızlı" ]
+    },
+    {
+        "word": "Yamaç",
+        "tabooWords": [ "Uçurum", "Yüksek", "Dağ", "Dik", "Paraşüt" ]
+    },
+    {
+        "word": "Pil",
+        "tabooWords": [ "Kalem", "Kumanda", "El feneri", "Saat", "Batarya" ]
+    },
+    {
+        "word": "Ziraat",
+        "tabooWords": [ "Tarım", "Çiftçi", "Banka", "Halk", "Toprak" ]
+    },
+    {
         "word": "Prospektüs",
         "tabooWords": [ "İlaç", "Eczane", "Okumak", "İçindekiler", "Kullanmak" ]
     }

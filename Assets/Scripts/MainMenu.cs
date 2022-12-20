@@ -87,7 +87,13 @@ public class MainMenu : MonoBehaviour
         }
         else
         {
+#if UNITY_EDITOR_WIN
+            GameManager.jsonString = (Resources.Load("words-tr") as TextAsset).text; // If json file exist, just read text (json) file.
+#endif
+
+#if UNITY_ANDROID
             GameManager.jsonString = File.ReadAllText(jsonLocalPath); // If json file exist, just read text (json) file.
+#endif
         }
 
         // Deserialize jsonString to TabooData class.

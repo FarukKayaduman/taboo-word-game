@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using Newtonsoft.Json;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Networking;
 
 public class GameManager : MonoBehaviour
 {
@@ -39,6 +36,7 @@ public class GameManager : MonoBehaviour
     private float gameTime;
 
     public static string jsonString;
+    private List<int> randomizedIndexes;
 
     private void OnEnable()
     {
@@ -131,6 +129,11 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void SetRandomizedWordIndexes()
+    {
+        
+    }
+
     public void OnStartButtonClicked()
     {
         if (!gameStarted)
@@ -143,6 +146,8 @@ public class GameManager : MonoBehaviour
             gamePaused = false;
             gameStarted = true;
         }
+        currentPassLimit = PlayerPrefs.GetInt("PassLimit");
+        currentPassLimitText.text = currentPassLimit.ToString();
         currentScoreText.text = currentScore.ToString();
         pausePanel.SetActive(false);
     }

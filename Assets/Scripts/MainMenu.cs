@@ -6,13 +6,15 @@ using UnityEngine.Networking;
 using System.Collections;
 using TMPro;
 using System.IO;
-using NUnit.Framework.Interfaces;
 
 public class MainMenu : MonoBehaviour
 {
     private string jsonURL;
     private string jsonLocalPath;
 
+    [SerializeField] private GameObject updateWordsArea;
+    [SerializeField] private Animator updateWordsAreaButtonAnim;
+    [SerializeField] private Animator updateWordsAreaTextAnim;
     [SerializeField] private TextMeshProUGUI requestStatusText;
 
     private void Awake()
@@ -36,6 +38,7 @@ public class MainMenu : MonoBehaviour
         jsonLocalPath = Path.Combine(Application.persistentDataPath, "words-tr.json");
 
         GetJsonFromLocal();
+        StartCoroutine(WordListUpdateCheck());
     }
 
     [Obsolete]
@@ -45,7 +48,7 @@ public class MainMenu : MonoBehaviour
     }
 
     [Obsolete]
-    IEnumerator GetJsonFromURL()
+    private IEnumerator GetJsonFromURL()
     {
         // URL of json file
         jsonURL = "https://raw.githubusercontent.com/FarukKayaduman/taboo-word-game/main/Assets/Resources/words-tr.json";
@@ -73,6 +76,10 @@ public class MainMenu : MonoBehaviour
             {
                 File.WriteAllText(jsonLocalPath, GameManager.jsonString); // If json file exists, just write jsonString to it.
             }
+
+            updateWordsAreaButtonAnim.Play("UpdateWordsButtonExit");
+            updateWordsAreaTextAnim.Play("UpdateWordsTextExit");
+            updateWordsArea.SetActive(false);
         }
     }
 
@@ -98,7 +105,38 @@ public class MainMenu : MonoBehaviour
 
         // Deserialize jsonString to TabooData class.
         GameManager.tabooData = JsonConvert.DeserializeObject<List<GameManager.TabooData>>(GameManager.jsonString);
+    }
 
+    private IEnumerator WordListUpdateCheck()
+    {
+        string jsonStringLocal = "";
+        string jsonStringRemote = "";
+
+#if UNITY_EDITOR_WIN
+        jsonStringLocal = (Resources.Load("words-tr") as TextAsset).text;
+#endif
+
+#if UNITY_ANDROID
+        jsonStringLocal = File.ReadAllText(jsonLocalPath);
+#endif
+
+        // URL of json file
+        jsonURL = "https://raw.githubusercontent.com/FarukKayaduman/taboo-word-game/main/Assets/Resources/words-tr.json";
+
+        UnityWebRequest requestToGetJsonString = UnityWebRequest.Get(jsonURL); // Create web request.
+        yield return requestToGetJsonString.SendWebRequest();
+        jsonStringRemote = requestToGetJsonString.downloadHandler.text; // Assign requested text to jsonString variable.
+
+        if (jsonStringLocal != jsonStringRemote)
+        {
+            updateWordsArea.SetActive(true);
+        }
+        else
+        {
+            updateWordsAreaButtonAnim.Play("UpdateWordsButtonExit");
+            updateWordsAreaTextAnim.Play("UpdateWordsTextExit");
+            updateWordsArea.SetActive(false);
+        }
     }
 
     public void OnNewGameButtonClicked()

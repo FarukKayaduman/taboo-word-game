@@ -145,7 +145,7 @@
     },
     {
         "word": "Kelebek",
-        "tabooWords": [ "Renkl,", "Koza", "Uçmak", "Tırtıl", "Bir gün" ]
+        "tabooWords": [ "Renkli,", "Koza", "Uçmak", "Tırtıl", "Bir gün" ]
     },
     {
         "word": "Gökkuşağı",
@@ -437,7 +437,7 @@
     },
     {
         "word": "Servet",
-        "tabooWords": [ "KAzanmak", "Zenginlik", "Mal", "Mülk", "Para" ]
+        "tabooWords": [ "Kazanmak", "Zenginlik", "Mal", "Mülk", "Para" ]
     },
     {
         "word": "Tedarik",
@@ -453,7 +453,7 @@
     },
     {
         "word": "Çamaşır",
-        "tabooWords": [ "Kİrli", "Yıkamak", "Makine", "Deterjan", "Giymek" ]
+        "tabooWords": [ "Kirli", "Yıkamak", "Makine", "Deterjan", "Giymek" ]
     },
     {
         "word": "Numune",

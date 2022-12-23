@@ -271,7 +271,7 @@ PlayerSettings:
   androidGamepadSupportLevel: 1
   chromeosInputEmulation: 1
   AndroidMinifyWithR8: 0
-  AndroidMinifyRelease: 0
+  AndroidMinifyRelease: 1
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
@@ -690,9 +690,9 @@ PlayerSettings:
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
-    Android: 0
+    Android: 1
   il2cppCompilerConfiguration:
-    Android: 0
+    Android: 1
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1

@@ -538,5 +538,9 @@
     {
         "word": "Prospektüs",
         "tabooWords": [ "İlaç", "Eczane", "Okumak", "İçindekiler", "Kullanmak" ]
+    },
+    {
+        "word": "Baba",
+        "tabooWords": [ "Anne", "Erkek", "Eş", "Aile", "Ebeveyn" ]
     }
 ]

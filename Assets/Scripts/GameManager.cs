@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 
@@ -33,10 +34,16 @@ public class GameManager : MonoBehaviour
     private bool gamePaused;
     private int currentScore;
     private int currentPassLimit;
+    private int currentWordIndex;
     private float gameTime;
 
     public static string jsonString;
     private List<int> randomizedIndexes;
+
+    private void Awake()
+    {
+        SetRandomizedWordIndexes();
+    }
 
     private void OnEnable()
     {
@@ -57,6 +64,7 @@ public class GameManager : MonoBehaviour
         currentScoreText.text = "0";
 
         SetPassLimit();
+        
     }
 
     private void Update()
@@ -120,18 +128,30 @@ public class GameManager : MonoBehaviour
 
     public void LoadNextWord()
     {
-        int randomIndex = UnityEngine.Random.Range(0, tabooData.Count);
-
-        mainWordText.text = tabooData[randomIndex].Word;
+        mainWordText.text = tabooData[randomizedIndexes[currentWordIndex]].Word;
         for (int i = 0; i < 5; i++)
         {
-            tabooWordsTexts[i].text = tabooData[randomIndex].TabooWords[i];
+            tabooWordsTexts[i].text = tabooData[randomizedIndexes[currentWordIndex]].TabooWords[i];
+        }
+        if(currentWordIndex != randomizedIndexes.Count - 1)
+            currentWordIndex++;
+        else
+        {
+            currentWordIndex = 0;
+            SetRandomizedWordIndexes();
         }
     }
 
     private void SetRandomizedWordIndexes()
     {
-        
+        randomizedIndexes = Enumerable.Range(0, tabooData.Count).ToList();
+        System.Random random = new();
+
+        for (int i = 0; i < randomizedIndexes.Count; i++)
+        {
+            int j = random.Next(i + 1);
+            (randomizedIndexes[j], randomizedIndexes[i]) = (randomizedIndexes[i], randomizedIndexes[j]);
+        }
     }
 
     public void OnStartButtonClicked()

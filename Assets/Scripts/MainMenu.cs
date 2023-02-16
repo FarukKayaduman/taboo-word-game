@@ -33,7 +33,7 @@ public class MainMenu : MonoBehaviour
     }
 
     [Obsolete]
-    private void Start()
+    private void OnEnable()
     {
         jsonLocalPath = Path.Combine(Application.persistentDataPath, "words-tr.json");
 

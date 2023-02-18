@@ -31,3 +31,6 @@ The team that tells the most words without using forbidden ones before time runs
 ## Development Tools
 * [Unity Engine v2021.3.5f1](https://unity.com/)
 * [Microsoft Visual Studio 2022 IDE](https://visualstudio.microsoft.com/vs/)
+
+## External Resources
+* Taboo words external source 1: [nejdetkadir/turkish-taboo-words](https://github.com/nejdetkadir/turkish-taboo-words)

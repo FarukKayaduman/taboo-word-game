@@ -1208,248 +1208,248 @@
         "tabooWords": [ "Hemşi̇re", "Hastane", "Kurmak", "Selimiye Kışlası", "Doktor" ]
     },
     {
-        "word": "İZdi̇Vaç",
-        "tabooWords": [ "Evlenmek", "Yuva", "Geli̇N", "Damat", "Ni̇Kah" ]
+        "word": "İzdivaç",
+        "tabooWords": [ "Evlenmek", "Yuva", "Geli̇n", "Damat", "Ni̇kah" ]
     },
     {
         "word": "Benek",
-        "tabooWords": [ "Çi̇L", "Nokta", "Yüz", "Leke", "Küçük" ]
+        "tabooWords": [ "Çi̇l", "Nokta", "Yüz", "Leke", "Küçük" ]
     },
     {
         "word": "Kabza",
-        "tabooWords": [ "Si̇Lah", "Tabanca", "Tutmak", "Sap", "Kiliç" ]
+        "tabooWords": [ "Si̇lah", "Tabanca", "Tutmak", "Sap", "Kılıç" ]
     },
     {
-        "word": "Dolmabahçe Sarayi",
-        "tabooWords": [ "Osmanli", "Beşi̇Ktaş", "Atatürk", "Padi̇Şah", "Topkapi" ]
+        "word": "Dolmabahçe Sarayı",
+        "tabooWords": [ "Osmanlı", "Beşi̇ktaş", "Atatürk", "Padi̇şah", "Topkapı" ]
     },
     {
-        "word": "İRmi̇K",
-        "tabooWords": [ "Helva", "Tatli", "Buğday", "Un", "Dağitmak" ]
+        "word": "İrmik",
+        "tabooWords": [ "Helva", "Tatlı", "Buğday", "Un", "Dağıtmak" ]
     },
     {
-        "word": "Hazircevap",
-        "tabooWords": [ "Soru", "Laf", "Çabuk", "Bulmak", "Hizli" ]
+        "word": "Hazırcevap",
+        "tabooWords": [ "Soru", "Laf", "Çabuk", "Bulmak", "Hızlı" ]
     },
     {
         "word": "Ukrayna",
-        "tabooWords": [ "Ülke", "Rusya", "Ki̇Ev", "Doğalgaz", "Karadeni̇Z" ]
+        "tabooWords": [ "Ülke", "Rusya", "Kiev", "Doğalgaz", "Karadeni̇z" ]
     },
     {
         "word": "Çar",
-        "tabooWords": [ "Rusya", "Petro", "Padi̇Şah", "Kral", "Yönetmek" ]
+        "tabooWords": [ "Rusya", "Petro", "Padi̇şah", "Kral", "Yönetmek" ]
     },
     {
         "word": "Post",
-        "tabooWords": [ "Hayvan", "Deri̇", "Yüzmek", "Kürk", "Ayi" ]
+        "tabooWords": [ "Hayvan", "Deri̇", "Yüzmek", "Kürk", "Ayı" ]
     },
     {
-        "word": "Li̇Bero",
-        "tabooWords": [ "Futbol", "Takim", "Maç", "Defans", "Orta Saha" ]
+        "word": "Li̇bero",
+        "tabooWords": [ "Futbol", "Takım", "Maç", "Defans", "Orta Saha" ]
     },
     {
-        "word": "Dehli̇Z",
-        "tabooWords": [ "Kori̇Dor", "Yer Alti", "Gi̇Zli̇", "Karanlik", "Geçi̇T" ]
+        "word": "Dehli̇z",
+        "tabooWords": [ "Kori̇dor", "Yer Altı", "Gi̇zli̇", "Karanlık", "Geçi̇t" ]
     },
     {
-        "word": "Çeli̇K Kasa",
+        "word": "Çeli̇k Kasa",
         "tabooWords": [ "Para", "Değerli̇", "Mücevher", "Ev", "Saklamak" ]
     },
     {
         "word": "Müjde Ar",
-        "tabooWords": [ "Si̇Nema", "Oyuncu", "Seksi̇", "Aysel Gürsel", "Arabesk" ]
+        "tabooWords": [ "Si̇nema", "Oyuncu", "Güzel", "Aysel Gürsel", "Arabesk" ]
     },
     {
         "word": "Fön Çekmek",
-        "tabooWords": [ "Kuaför", "Saç", "Düzleşti̇Rmek", "Maki̇Ne", "Sicak" ]
+        "tabooWords": [ "Kuaför", "Saç", "Düzleşti̇rmek", "Maki̇ne", "Sıcak" ]
     },
     {
         "word": "Favori̇",
-        "tabooWords": [ "Bi̇Ri̇Nci̇", "Yarişma", "Beğenmek", "Sevmek", "Sakal" ]
+        "tabooWords": [ "Bi̇rinci̇", "Yarışma", "Beğenmek", "Sevmek", "Sakal" ]
     },
     {
         "word": "Babacan",
-        "tabooWords": [ "Davranmak", "Güvenmek", "Adam", "Şefkat", "İYi̇" ]
+        "tabooWords": [ "Davranmak", "Güvenmek", "Adam", "Şefkat", "İyi̇" ]
     },
     {
         "word": "Aspendos",
-        "tabooWords": [ "Ti̇Yatro", "Anti̇K", "Antalya", "Açik Hava", "Konser" ]
+        "tabooWords": [ "Tiyatro", "Anti̇k", "Antalya", "Açık Hava", "Konser" ]
     },
     {
         "word": "Külah",
-        "tabooWords": [ "Şapka", "Kağit", "Dondurma", "Deği̇Şmek", "Anlatmak" ]
+        "tabooWords": [ "Şapka", "Kağıt", "Dondurma", "Deği̇şmek", "Anlatmak" ]
     },
     {
         "word": "Slalom",
-        "tabooWords": [ "Kayak", "Kar", "Yariş", "Bayrak", "Pi̇St" ]
+        "tabooWords": [ "Kayak", "Kar", "Yarış", "Bayrak", "Pi̇st" ]
     },
     {
         "word": "Antrenman",
-        "tabooWords": [ "Spor", "Koşu", "Egzersi̇Z", "Futbolcu", "İDman" ]
+        "tabooWords": [ "Spor", "Koşu", "Egzersi̇z", "Futbolcu", "İdman" ]
     },
     {
-        "word": "Sai̇T Fai̇K Abasiyanik",
-        "tabooWords": [ "Edebi̇Yat", "Yazar", "Hi̇Kaye", "Türk", "Burgazada" ]
+        "word": "Sai̇t Fai̇k Abasıyanık",
+        "tabooWords": [ "Edebi̇yat", "Yazar", "Hi̇kaye", "Türk", "Burgazada" ]
     },
     {
-        "word": "Çi̇Vi̇ Yazisi",
-        "tabooWords": [ "İLkçağ", "Eski̇", "Asur", "Sümer", "Taş" ]
+        "word": "Çi̇vi̇ Yazısı",
+        "tabooWords": [ "İlkçağ", "Eski̇", "Asur", "Sümer", "Taş" ]
     },
     {
         "word": "Akrobat",
-        "tabooWords": [ "Gösteri̇", "Yetenek", "Si̇Rk", "Cambaz", "Esnek" ]
+        "tabooWords": [ "Gösteri̇", "Yetenek", "Si̇rk", "Cambaz", "Esnek" ]
     },
     {
         "word": "Kolonya",
-        "tabooWords": [ "Ferahlik", "Sürmek", "Li̇Mon", "Dökmek", "Mi̇Safi̇R" ]
+        "tabooWords": [ "Ferahlık", "Sürmek", "Li̇mon", "Dökmek", "Mi̇safi̇r" ]
     },
     {
         "word": "Cannes",
-        "tabooWords": [ "Fi̇Lm", "Festi̇Val", "Fransa", "Sahi̇L", "Si̇Nema" ]
+        "tabooWords": [ "Fi̇lm", "Festi̇val", "Fransa", "Sahi̇l", "Si̇nema" ]
     },
     {
         "word": "Espri̇ Yapmak",
-        "tabooWords": [ "Komi̇K", "Şaka", "Anlatmak", "Gülmek", "Kahkaha" ]
+        "tabooWords": [ "Komi̇k", "Şaka", "Anlatmak", "Gülmek", "Kahkaha" ]
     },
     {
         "word": "Makbuz",
-        "tabooWords": [ "Ai̇Dat", "Bağiş", "Ödeme", "Kağit", "Fatura" ]
+        "tabooWords": [ "Ai̇dat", "Bağış", "Ödeme", "Kağıt", "Fatura" ]
     },
     {
-        "word": "Mühi̇Mmat",
-        "tabooWords": [ "Depo", "Savaş", "Cephane", "Ordu", "Si̇Lah" ]
+        "word": "Mühi̇mmat",
+        "tabooWords": [ "Depo", "Savaş", "Cephane", "Ordu", "Si̇lah" ]
     },
     {
         "word": "Gong",
-        "tabooWords": [ "Ses", "Zi̇L", "Tokmak", "Çinlamak", "Vurmak" ]
+        "tabooWords": [ "Ses", "Zi̇l", "Tokmak", "Çınlamak", "Vurmak" ]
     },
     {
-        "word": "Soğuk Alginliği",
+        "word": "Soğuk Algınlığı",
         "tabooWords": [ "Nezle", "Üşütmek", "Hasta", "Burun", "Boğaz" ]
     },
     {
         "word": "Çağlayan",
-        "tabooWords": [ "Şelale", "Su", "Akmak", "Nehi̇R", "Yüksek" ]
+        "tabooWords": [ "Şelale", "Su", "Akmak", "Nehi̇r", "Yüksek" ]
     },
     {
-        "word": "İMambayildi",
-        "tabooWords": [ "Yemek", "Patlican", "Zeyti̇Nyağli", "Karniyarik", "Domates" ]
+        "word": "İmambayıldı",
+        "tabooWords": [ "Yemek", "Patlıcan", "Zeyti̇nyağlı", "Karnıyarık", "Domates" ]
     },
     {
         "word": "Macera",
-        "tabooWords": [ "Olay", "Heyecan", "Adrenali̇N", "Yaşamak", "Saki̇N" ]
+        "tabooWords": [ "Olay", "Heyecan", "Adrenali̇n", "Yaşamak", "Saki̇n" ]
     },
     {
         "word": "Ahmet Çakar",
-        "tabooWords": [ "Hakem", "Futbol", "Erman Toroğlu", "Yarişma", "Maç" ]
+        "tabooWords": [ "Hakem", "Futbol", "Erman Toroğlu", "Yarışma", "Maç" ]
     },
     {
         "word": "Kalça",
-        "tabooWords": [ "Kadin", "Sallamak", "Vücut", "Bacak", "Jenni̇Fer Lopez" ]
+        "tabooWords": [ "Kadın", "Popo", "Vücut", "Bacak", "Jenni̇fer Lopez" ]
     },
     {
         "word": "Hakaret Etmek",
-        "tabooWords": [ "Küfür", "Söz", "Kötü", "Söylemek", "Çi̇Rki̇N" ]
+        "tabooWords": [ "Küfür", "Söz", "Kötü", "Söylemek", "Çi̇rki̇n" ]
     },
     {
-        "word": "Kondi̇Syon Bi̇Si̇Kleti̇",
-        "tabooWords": [ "Spor", "Ev", "Çevi̇Rmek", "Koşu Bandi", "Zayiflamak" ]
+        "word": "Kondi̇syon Bi̇sikleti̇",
+        "tabooWords": [ "Spor", "Ev", "Çevi̇rmek", "Koşu Bandı", "Zayıflamak" ]
     },
     {
         "word": "Pavurya",
-        "tabooWords": [ "Yengeç", "İRi̇", "Büyük", "Deni̇Z", "Yemek" ]
+        "tabooWords": [ "Yengeç", "İri̇", "Büyük", "Deni̇z", "Yemek" ]
     },
     {
         "word": "Patent",
-        "tabooWords": [ "Almak", "Tesci̇L", "Buluş", "Teli̇F Hakki", "Kanitlamak" ]
+        "tabooWords": [ "Almak", "Tesci̇l", "Buluş", "Teli̇f Hakkı", "Kanıtlamak" ]
     },
     {
-        "word": "Şi̇Şi̇Rmek",
-        "tabooWords": [ "Balon", "Lasti̇K", "Üflemek", "Pompa", "Hava" ]
+        "word": "Şi̇şirmek",
+        "tabooWords": [ "Balon", "Lasti̇k", "Üflemek", "Pompa", "Hava" ]
     },
     {
-        "word": "Hafri̇Yat",
-        "tabooWords": [ "İNşaat", "Toprak", "Bi̇Na", "Kazmak", "Kamyon" ]
+        "word": "Hafri̇yat",
+        "tabooWords": [ "İnşaat", "Toprak", "Bi̇na", "Kazmak", "Kamyon" ]
     },
     {
-        "word": "Astronomi̇K",
-        "tabooWords": [ "Rakam", "Yüksek", "Pahali", "Aşiri", "Gökyüzü" ]
+        "word": "Astronomi̇k",
+        "tabooWords": [ "Rakam", "Yüksek", "Pahalı", "Aşırı", "Gökyüzü" ]
     },
     {
         "word": "Kaykay",
-        "tabooWords": [ "Bi̇Nmek", "Çocuk", "Tekerlek", "Tahta", "Paten" ]
+        "tabooWords": [ "Bi̇nmek", "Çocuk", "Tekerlek", "Tahta", "Paten" ]
     },
     {
         "word": "Mavi̇ Yolculuk",
-        "tabooWords": [ "Ege", "Gezi̇", "Yat", "Ki̇Ralamak", "Akdeni̇Z" ]
+        "tabooWords": [ "Ege", "Gezi̇", "Yat", "Ki̇ralamak", "Akdeni̇z" ]
     },
     {
         "word": "Boş Bulunmak",
-        "tabooWords": [ "Di̇Kkatsi̇Z", "Dalgin", "Davranmak", "Söylemek", "Pot Kirmak" ]
+        "tabooWords": [ "Di̇kkatsi̇z", "Dalgın", "Davranmak", "Söylemek", "Pot Kırmak" ]
     },
     {
         "word": "Orhan Gencebay",
-        "tabooWords": [ "Müzi̇Syen", "Arabesk", "Ferdi̇ Tayfur", "Müslüm Gürses", "Batsin Bu Dünya" ]
+        "tabooWords": [ "Müzi̇syen", "Arabesk", "Ferdi̇ Tayfur", "Müslüm Gürses", "Batsın Bu Dünya" ]
     },
     {
-        "word": "Dişlanmak",
+        "word": "Dışlanmak",
         "tabooWords": [ "Arkadaş", "Konuşmak", "Atmak", "Almak", "Ortam" ]
     },
     {
         "word": "Neşter",
-        "tabooWords": [ "Ameli̇Yat", "Biçak", "Kesmek", "Cerrah", "Doktor" ]
+        "tabooWords": [ "AmeliYat", "Bıçak", "Kesmek", "Cerrah", "Doktor" ]
     },
     {
         "word": "Şebeke",
-        "tabooWords": [ "Ağ", "Donanim", "Örgüt", "Elektri̇K", "Tesi̇Sat" ]
+        "tabooWords": [ "Ağ", "Donanım", "Örgüt", "Elektri̇k", "Tesi̇sat" ]
     },
     {
         "word": "Yaren",
-        "tabooWords": [ "Dost", "Arkadaş", "Sevgi̇Li̇", "Yakin", "Eş" ]
+        "tabooWords": [ "Dost", "Arkadaş", "Sevgi̇li̇", "Yakın", "Eş" ]
     },
     {
         "word": "Sere Serpe",
-        "tabooWords": [ "Güneşlenmek", "Yatmak", "Rahat", "Açik Saçik", "Serbest" ]
+        "tabooWords": [ "Güneşlenmek", "Yatmak", "Rahat", "Açık Saçık", "Serbest" ]
     },
     {
         "word": "Tokyo",
-        "tabooWords": [ "Şehi̇R", "Japonya", "Ada", "Asya", "Başkent" ]
+        "tabooWords": [ "Şehi̇r", "Japonya", "Ada", "Asya", "Başkent" ]
     },
     {
-        "word": "İÇi̇Ne Doğmak",
-        "tabooWords": [ "Hi̇Ssetmek", "Önce", "Bi̇Lmek", "Malum Olmak", "Sezmek" ]
+        "word": "İçine Doğmak",
+        "tabooWords": [ "Hi̇ssetmek", "Önce", "Bi̇lmek", "Malum Olmak", "Sezmek" ]
     },
     {
         "word": "Banko",
-        "tabooWords": [ "Kesi̇N", "At Yarişi", "Kazanmak", "Bahi̇S", "Garanti̇" ]
+        "tabooWords": [ "Kesi̇n", "At Yarışı", "Kazanmak", "Bahi̇s", "Garanti" ]
     },
     {
-        "word": "Pi̇Sboğaz",
+        "word": "Pi̇sboğaz",
         "tabooWords": [ "Obur", "Yemek", "Açgözlü", "Tok", "Doymak" ]
     },
     {
-        "word": "Çobanyildizi",
+        "word": "Çobanyıldızı",
         "tabooWords": [ "Gökyüzü", "Gece", "Yön", "Parlak", "Kutup" ]
     },
     {
         "word": "Alaska",
-        "tabooWords": [ "Fri̇Go", "Ameri̇Ka", "Soğuk", "Eyalet", "Rusya" ]
+        "tabooWords": [ "Fri̇go", "Ameri̇ka", "Soğuk", "Eyalet", "Rusya" ]
     },
     {
         "word": "Beyzbol",
-        "tabooWords": [ "Spor", "Ameri̇Ka", "Top", "Vurmak", "Sopa" ]
+        "tabooWords": [ "Spor", "Ameri̇ka", "Top", "Vurmak", "Sopa" ]
     },
     {
-        "word": "Görgü Kurallari",
-        "tabooWords": [ "Adap", "Saygi", "Terbi̇Ye", "Toplum", "Uymak" ]
+        "word": "Görgü Kuralları",
+        "tabooWords": [ "Adap", "Saygı", "Terbi̇ye", "Toplum", "Uymak" ]
     },
     {
-        "word": "Çi̇Çek Pasaji",
-        "tabooWords": [ "İStanbul", "Beyoğlu", "Nevi̇Zade", "Yemek", "İÇmek" ]
+        "word": "Çi̇çek Pasajı",
+        "tabooWords": [ "İstanbul", "Beyoğlu", "Nevi̇zade", "Yemek", "İçmek" ]
     },
     {
-        "word": "Kağit Helva",
-        "tabooWords": [ "Yi̇Yecek", "Tatli", "Yuvarlak", "Dondurma", "Külah" ]
+        "word": "Kağıt Helva",
+        "tabooWords": [ "Yi̇yecek", "Tatlı", "Yuvarlak", "Dondurma", "Külah" ]
     },
     {
         "word": "Damla",
@@ -1457,39 +1457,39 @@
     },
     {
         "word": "Deney",
-        "tabooWords": [ "Ki̇Mya", "Laboratuar", "Fare", "Bi̇Li̇M", "Tüp" ]
+        "tabooWords": [ "Ki̇mya", "Laboratuar", "Fare", "Bi̇li̇m", "Tüp" ]
     },
     {
-        "word": "Tuş Ki̇Li̇Di̇",
-        "tabooWords": [ "Telefon", "Açik", "Kapali", "Basmak", "Aramak" ]
+        "word": "Tuş Ki̇li̇di̇",
+        "tabooWords": [ "Telefon", "Açık", "Kapalı", "Basmak", "Aramak" ]
     },
     {
-        "word": "Mi̇Ladi̇ Takvi̇M",
-        "tabooWords": [ "Gün", "Ay", "Zaman", "Ajanda", "Hi̇Cri̇" ]
+        "word": "Mi̇ladi̇ Takvi̇m",
+        "tabooWords": [ "Gün", "Ay", "Zaman", "Ajanda", "Hi̇cri̇" ]
     },
     {
         "word": "Köşe Bucak",
-        "tabooWords": [ "Kaçmak", "Temi̇Zlemek", "Her Yer", "Saklanmak", "Dolaşmak" ]
+        "tabooWords": [ "Kaçmak", "Temi̇zlemek", "Her Yer", "Saklanmak", "Dolaşmak" ]
     },
     {
         "word": "Rengi̇ Atmak",
-        "tabooWords": [ "Korkmak", "Yikamak", "Solmak", "Yüz", "Sararmak" ]
+        "tabooWords": [ "Korkmak", "Yıkamak", "Solmak", "Yüz", "Sararmak" ]
     },
     {
         "word": "Alp Arslan",
-        "tabooWords": [ "Selçuklu", "Hükümdar", "Türk", "Anadolu", "Malazgi̇Rt Savaşi" ]
+        "tabooWords": [ "Selçuklu", "Hükümdar", "Türk", "Anadolu", "Malazgi̇rt Savaşı" ]
     },
     {
         "word": "Kolera",
-        "tabooWords": [ "Hastalik", "Salgin", "Ti̇Fo", "İShal", "Bulaşici" ]
+        "tabooWords": [ "Hastalık", "Salgın", "Ti̇fo", "İshal", "Bulaşıcı" ]
     },
     {
         "word": "Ebeveyn",
-        "tabooWords": [ "Anne", "Baba", "Çocuk", "Ai̇Le", "İKi̇Li̇" ]
+        "tabooWords": [ "Anne", "Baba", "Çocuk", "Ai̇le", "İki̇li̇" ]
     },
     {
         "word": "Frapan",
-        "tabooWords": [ "Elbi̇Se", "Gi̇Ysi̇", "Di̇Kkat Çeki̇Ci̇", "Rüküş", "Havali" ]
+        "tabooWords": [ "Elbi̇se", "Gi̇ysi̇", "Di̇kkat Çeki̇ci̇", "Rüküş", "Havalı" ]
     },
     {
         "word": "Kontak",
@@ -1497,131 +1497,131 @@
     },
     {
         "word": "Murathan Mungan",
-        "tabooWords": [ "Edebi̇Yat", "Şai̇R", "Roman", "Yazar", "Kirk Oda" ]
+        "tabooWords": [ "Edebi̇yat", "Şai̇r", "Roman", "Yazar", "Kırk Oda" ]
     },
     {
         "word": "Bacanak",
-        "tabooWords": [ "Eş", "Kardeş", "Baldiz", "Koca", "Kiz" ]
+        "tabooWords": [ "Eş", "Kardeş", "Baldız", "Koca", "Kız" ]
     },
     {
-        "word": "Psi̇Koloji̇",
-        "tabooWords": [ "Sosyoloji̇", "Psi̇Ki̇Yatri̇", "Ruhbi̇Li̇M", "Depresyon", "Freud" ]
+        "word": "Psi̇koloji̇",
+        "tabooWords": [ "Sosyoloji̇", "Psi̇ki̇yatri", "Ruhbi̇li̇m", "Depresyon", "Freud" ]
     },
     {
-        "word": "Ri̇Zi̇Ko",
-        "tabooWords": [ "Ri̇Sk", "Zarar", "Tehli̇Ke", "Yarişma", "Televi̇Zyon" ]
+        "word": "Riziko",
+        "tabooWords": [ "Ri̇sk", "Zarar", "Tehli̇ke", "Yarışma", "Televi̇zyon" ]
     },
     {
-        "word": "Dalgakiran",
-        "tabooWords": [ "Deni̇Z", "Beton", "Kaya", "Tekne", "Set" ]
+        "word": "Dalgakıran",
+        "tabooWords": [ "Deni̇z", "Beton", "Kaya", "Tekne", "Set" ]
     },
     {
-        "word": "Rehi̇N Vermek",
-        "tabooWords": [ "Kuyumcu", "Borç", "Para", "Mücevher", "Altin" ]
+        "word": "Rehi̇n Vermek",
+        "tabooWords": [ "Kuyumcu", "Borç", "Para", "Mücevher", "Altın" ]
     },
     {
-        "word": "Zoruna Gi̇Tmek",
-        "tabooWords": [ "Bozulmak", "Üzülmek", "Gücüne Gi̇Tmek", "Dokunmak", "Onur" ]
+        "word": "Zoruna Gi̇tmek",
+        "tabooWords": [ "Bozulmak", "Üzülmek", "Gücüne Gi̇tmek", "Dokunmak", "Onur" ]
     },
     {
         "word": "Roket",
-        "tabooWords": [ "Füze", "Atmak", "Savaş", "Si̇Lah", "Menzi̇L" ]
+        "tabooWords": [ "Füze", "Atmak", "Savaş", "Si̇lah", "Menzi̇l" ]
     },
     {
-        "word": "Kari̇Des",
-        "tabooWords": [ "Deni̇Z", "Kabuklu", "Jumbo", "Istakoz", "Güveç" ]
+        "word": "Kari̇des",
+        "tabooWords": [ "Deni̇z", "Kabuklu", "Jumbo", "Istakoz", "Güveç" ]
     },
     {
         "word": "Dejenere",
-        "tabooWords": [ "Bozulmak", "Gençli̇K", "Yozlaşmak", "Nesi̇L", "Toplum" ]
+        "tabooWords": [ "Bozulmak", "Gençli̇k", "Yozlaşmak", "Nesi̇l", "Toplum" ]
     },
     {
         "word": "Çerkeztavuğu",
-        "tabooWords": [ "Yemek", "Cevi̇Z", "Meze", "Di̇Di̇Klemek", "Et" ]
+        "tabooWords": [ "Yemek", "Cevi̇z", "Meze", "Di̇di̇klemek", "Et" ]
     },
     {
-        "word": "İÇerlemek",
-        "tabooWords": [ "Alinmak", "Gücenmek", "Üzülmek", "Darilmak", "Kirilmak" ]
+        "word": "İçerlemek",
+        "tabooWords": [ "Alınmak", "Gücenmek", "Üzülmek", "Darılmak", "Kırılmak" ]
     },
     {
         "word": "Heybe",
-        "tabooWords": [ "Çanta", "Torba", "Eşek", "Taşimak", "Omuz" ]
+        "tabooWords": [ "Çanta", "Torba", "Eşek", "Taşımak", "Omuz" ]
     },
     {
         "word": "Pansuman",
-        "tabooWords": [ "Yara", "Temi̇Zlemek", "Bakmak", "Hemşi̇Re", "Pamuk" ]
+        "tabooWords": [ "Yara", "Temi̇zlemek", "Bakmak", "Hemşi̇re", "Pamuk" ]
     },
     {
         "word": "Zamane",
-        "tabooWords": [ "Çocuk", "Bugün", "Genç", "Şi̇Mdi̇", "Yakinmak" ]
+        "tabooWords": [ "Çocuk", "Bugün", "Genç", "Şi̇mdi̇", "Yakınmak" ]
     },
     {
-        "word": "Asma Yapraği",
-        "tabooWords": [ "Üzüm", "Dolma", "Şarap", "Sarma", "Zeyti̇Nyaği" ]
+        "word": "Asma Yaprağı",
+        "tabooWords": [ "Üzüm", "Dolma", "Şarap", "Sarma", "Zeyti̇nyağı" ]
     },
     {
         "word": "Semer",
-        "tabooWords": [ "Eyer", "Eşek", "At", "Sirt", "Oturmak" ]
+        "tabooWords": [ "Eyer", "Eşek", "At", "Sırt", "Oturmak" ]
     },
     {
         "word": "Muşmula",
-        "tabooWords": [ "Bi̇Tki̇", "Ağaç", "Meyve", "Buruşuk", "Surat" ]
+        "tabooWords": [ "Bi̇tki̇", "Ağaç", "Meyve", "Buruşuk", "Surat" ]
     },
     {
-        "word": "Yazlik",
-        "tabooWords": [ "Ev", "Oturmak", "Gi̇Tmek", "Deni̇Z", "Tati̇L" ]
+        "word": "Yazlık",
+        "tabooWords": [ "Ev", "Oturmak", "Gi̇tmek", "Deni̇z", "Tati̇l" ]
     },
     {
         "word": "Vokal",
-        "tabooWords": [ "Ses", "Şarki", "Söylemek", "Müzi̇K", "Yapmak" ]
+        "tabooWords": [ "Ses", "Şarkı", "Söylemek", "Müzi̇k", "Yapmak" ]
     },
     {
         "word": "Jambon",
-        "tabooWords": [ "Kahvalti", "Salam", "Et", "Sandvi̇Ç", "Dana" ]
+        "tabooWords": [ "Kahvaltı", "Salam", "Et", "Sandvi̇ç", "Dana" ]
     },
     {
         "word": "Ultrason",
-        "tabooWords": [ "Bakmak", "Bebek", "Hami̇Le", "Çekti̇Rmek", "Röntgen" ]
+        "tabooWords": [ "Bakmak", "Bebek", "Hami̇le", "Çekti̇rmek", "Röntgen" ]
     },
     {
         "word": "Alyuvar",
-        "tabooWords": [ "Kan", "Damar", "Kirmizi", "Hücre", "Akyuvar" ]
+        "tabooWords": [ "Kan", "Damar", "Kırmızı", "Hücre", "Akyuvar" ]
     },
     {
         "word": "Tezkere",
-        "tabooWords": [ "Askerli̇K", "Bi̇Ti̇Rmek", "Belge", "Kağit", "Ordu" ]
+        "tabooWords": [ "Askerli̇k", "Bi̇tirmek", "Belge", "Kağıt", "Ordu" ]
     },
     {
         "word": "Düz Taban",
-        "tabooWords": [ "Askerli̇K", "Ayak", "Yürümek", "Ortopedi̇", "Topuk" ]
+        "tabooWords": [ "Askerli̇k", "Ayak", "Yürümek", "Ortopedi̇", "Topuk" ]
     },
     {
         "word": "Kaymakam",
-        "tabooWords": [ "Vali̇", "İLçe", "Yönetmek", "Memur", "Beledi̇Ye" ]
+        "tabooWords": [ "Vali̇", "İlçe", "Yönetmek", "Memur", "Beledi̇ye" ]
     },
     {
         "word": "Kalay",
-        "tabooWords": [ "Bakir", "Tencere", "Kap Kacak", "Azarlamak", "Parlatmak" ]
+        "tabooWords": [ "Bakır", "Tencere", "Kap Kacak", "Azarlamak", "Parlatmak" ]
     },
     {
-        "word": "İLmek",
-        "tabooWords": [ "Düğüm", "Hali", "Örmek", "Şi̇Ş", "Tiğ" ]
+        "word": "İlmek",
+        "tabooWords": [ "Düğüm", "Halı", "Örmek", "Şi̇ş", "Tığ" ]
     },
     {
-        "word": "Kanali̇Zasyon",
-        "tabooWords": [ "Lağim", "Tuvalet", "Pi̇S", "Su", "Yer Alti" ]
+        "word": "Kanali̇zasyon",
+        "tabooWords": [ "Lağım", "Tuvalet", "Pi̇s", "Su", "Yer Altı" ]
     },
     {
         "word": "Mahsul",
-        "tabooWords": [ "Ürün", "Tarla", "Toplamak", "Veri̇M", "Çi̇Ftçi̇" ]
+        "tabooWords": [ "Ürün", "Tarla", "Toplamak", "Veri̇m", "Çi̇ftçi̇" ]
     },
     {
-        "word": "Burnundan Geti̇Rmek",
-        "tabooWords": [ "Rahatsiz Etmek", "Fi̇Ti̇L Fi̇Ti̇L", "Pi̇Şman Etmek", "Bozmak", "Zehi̇R Etmek" ]
+        "word": "Burnundan Geti̇rmek",
+        "tabooWords": [ "Rahatsız Etmek", "Fi̇til Fi̇til", "Pi̇şman Etmek", "Bozmak", "Zehi̇r Etmek" ]
     },
     {
         "word": "Cezve",
-        "tabooWords": [ "Kahve", "Fal", "Pi̇Şi̇Rmek", "Sap", "Telve" ]
+        "tabooWords": [ "Kahve", "Fal", "Pi̇şirmek", "Sap", "Telve" ]
     },
     {
         "word": "Bahane",
@@ -1629,82 +1629,82 @@
     },
     {
         "word": "Konfeti̇",
-        "tabooWords": [ "Kağit", "Maç", "Renkli̇", "Atmak", "Düğün" ]
+        "tabooWords": [ "Kağıt", "Maç", "Renkli̇", "Atmak", "Düğün" ]
     },
     {
-        "word": "Gani̇Met",
+        "word": "Gani̇met",
         "tabooWords": [ "Savaş", "Toplamak", "Yağma", "Korsan", "Çalmak" ]
     },
     {
         "word": "John Lennon",
-        "tabooWords": [ "Müzi̇Syen", "Beatles", "Yoko Ono", "Şarkici", "Imagi̇Ne" ]
+        "tabooWords": [ "Müzi̇syen", "Beatles", "Yoko Ono", "Şarkıcı", "Imagi̇ne" ]
     },
     {
         "word": "Facebook",
-        "tabooWords": [ "İNternet", "Arkadaşlik", "Si̇Te", "Fotoğraf", "Üye" ]
+        "tabooWords": [ "İnternet", "Arkadaşlık", "Si̇te", "Fotoğraf", "Üye" ]
     },
     {
-        "word": "Tekzi̇P",
-        "tabooWords": [ "Yalanlamak", "Gerçek", "Gazete", "Yayinlamak", "Haber" ]
+        "word": "Tekzi̇p",
+        "tabooWords": [ "Yalanlamak", "Gerçek", "Düzeltme", "Yayınlamak", "Haber" ]
     },
     {
-        "word": "Zi̇Gon",
-        "tabooWords": [ "Mobi̇Lya", "İÇ İÇe", "Sehpa", "Mi̇Safi̇R", "Salon" ]
+        "word": "Zi̇gon",
+        "tabooWords": [ "Mobi̇Lya", "İç İçe", "Sehpa", "Misafir", "Salon" ]
     },
     {
         "word": "Koala",
-        "tabooWords": [ "Avustralya", "Hayvan", "Ayi", "Okali̇Ptüs", "Ağaç" ]
+        "tabooWords": [ "Avustralya", "Hayvan", "Ayı", "Okali̇ptüs", "Ağaç" ]
     },
     {
         "word": "Seçenek",
-        "tabooWords": [ "Şik", "Sinav", "Opsi̇Yon", "Alternati̇F", "Başka" ]
+        "tabooWords": [ "Şık", "Sınav", "Opsi̇yon", "Alternati̇f", "Başka" ]
     },
     {
         "word": "Kubbe",
-        "tabooWords": [ "Cami̇İ", "Yuvarlak", "Ayasofya", "Küre", "Çati" ]
+        "tabooWords": [ "Cami̇", "Yuvarlak", "Ayasofya", "Küre", "Çatı" ]
     },
     {
         "word": "Heidi Klum",
-        "tabooWords": [ "Manken", "Top Model", "Seal", "Defi̇Le", "Alman" ]
+        "tabooWords": [ "Manken", "Top Model", "Seal", "Defi̇le", "Alman" ]
     },
     {
         "word": "Çemen",
-        "tabooWords": [ "Pastirma", "Aci", "Sos", "Sürmek", "Kokulu" ]
+        "tabooWords": [ "Pastırma", "Acı", "Sos", "Sürmek", "Kokulu" ]
     },
     {
-        "word": "Deni̇Zkestanesi̇",
-        "tabooWords": [ "Batmak", "Di̇Ken", "Kabuk", "Ayak", "Yuvarlak" ]
+        "word": "Deni̇zkestanesi̇",
+        "tabooWords": [ "Batmak", "Di̇ken", "Kabuk", "Ayak", "Yuvarlak" ]
     },
     {
         "word": "Casus",
-        "tabooWords": [ "James Bond", "Gi̇Zli̇", "Ajan", "Mata Hari", "007" ]
+        "tabooWords": [ "James Bond", "Gi̇zli̇", "Ajan", "Mata Hari", "007" ]
     },
     {
-        "word": "Kuvay-I Mi̇Lli̇Ye",
-        "tabooWords": [ "Kurtuluş Savaşi", "Mustafa Kemal Atatürk", "Ordu", "Halk", "İSti̇Klal" ]
+        "word": "Kuvay-i Milliye",
+        "tabooWords": [ "Kurtuluş Savaşı", "Mustafa Kemal Atatürk", "Ordu", "Halk", "İsti̇klal" ]
     },
     {
-        "word": "Satir",
-        "tabooWords": [ "Biçak", "Et", "Doğramak", "Yazi", "Kesmek" ]
+        "word": "Satır",
+        "tabooWords": [ "Bıçak", "Et", "Doğramak", "Yazı", "Kesmek" ]
     },
     {
-        "word": "Lehi̇Mlemek",
-        "tabooWords": [ "Yapiştirmak", "Tutturmak", "Metal", "Parça", "Kaynak" ]
+        "word": "Lehi̇mlemek",
+        "tabooWords": [ "Yapıştırmak", "Tutturmak", "Metal", "Parça", "Kaynak" ]
     },
     {
-        "word": "Eği̇Li̇M",
-        "tabooWords": [ "İLgi̇", "Yönetmek", "Merak", "Meyi̇L", "İStemek" ]
+        "word": "Eği̇li̇m",
+        "tabooWords": [ "İlgi̇", "Yönetmek", "Merak", "Meyi̇l", "İstemek" ]
     },
     {
-        "word": "Di̇Nozor",
-        "tabooWords": [ "Tükenmek", "Hayvan", "Jurrasic Park", "Fosi̇L", "T-Rex" ]
+        "word": "Di̇nozor",
+        "tabooWords": [ "Tükenmek", "Hayvan", "Jurrasic Park", "Fosi̇l", "T-Rex" ]
     },
     {
         "word": "Oklava",
         "tabooWords": [ "Hamur", "Açmak", "Börek", "Merdane", "Sopa" ]
     },
     {
-        "word": "Külbasti",
+        "word": "Külbastı",
         "tabooWords": [ "Et", "Pi̇Rzola", "Izgara", "Kemi̇Ksi̇Z", "Dana" ]
     },
     {
@@ -1712,248 +1712,248 @@
         "tabooWords": [ "Uçmak", "Hava", "Gökyüzü", "Motor", "Kanat" ]
     },
     {
-        "word": "Fethi̇Ye",
-        "tabooWords": [ "Muğla", "Ölüdeni̇Z", "Tati̇L", "Akdeni̇Z", "Kelebekler Vadi̇Si̇" ]
+        "word": "Fethi̇ye",
+        "tabooWords": [ "Muğla", "Ölüdeni̇z", "Tati̇l", "Paraşüt", "Kelebekler Vadi̇si̇" ]
     },
     {
-        "word": "Lati̇N Ameri̇Ka",
-        "tabooWords": [ "Güney", "Kita", "Brezi̇Lya", "Ülke", "Arjanti̇N" ]
+        "word": "Lati̇n Ameri̇ka",
+        "tabooWords": [ "Güney", "Kıta", "Brezi̇lya", "Ülke", "Arjanti̇n" ]
     },
     {
-        "word": "Canli Yayin",
-        "tabooWords": [ "Televi̇Zyon", "Naklen", "Haber", "Bağlanmak", "Maç" ]
+        "word": "Canlı Yayın",
+        "tabooWords": [ "Televi̇zyon", "Naklen", "Haber", "Bağlanmak", "Maç" ]
     },
     {
-        "word": "Lcd Ekran",
-        "tabooWords": [ "Televi̇Zyon", "Bi̇Lgi̇Sayar", "Plazma", "İNce", "Seyretmek" ]
+        "word": "LCD Ekran",
+        "tabooWords": [ "Televi̇zyon", "Bi̇lgi̇sayar", "Plazma", "İnce", "Seyretmek" ]
     },
     {
         "word": "Gastronomi̇",
-        "tabooWords": [ "Yemek", "Bi̇Li̇M", "Aşçi", "Mutfak", "Gurme" ]
+        "tabooWords": [ "Yemek", "Bi̇lim", "Aşçı", "Mutfak", "Gurme" ]
     },
     {
-        "word": "Goti̇K",
-        "tabooWords": [ "Ortaçağ", "Mi̇Mari̇", "Gençli̇K", "Si̇Yah", "Punk" ]
+        "word": "Goti̇k",
+        "tabooWords": [ "Ortaçağ", "Mi̇mari̇", "Gençli̇k", "Si̇yah", "Punk" ]
     },
     {
-        "word": "Eli̇Şi̇",
-        "tabooWords": [ "Dantel", "Örgü", "Çeyi̇Z", "Okul", "Ders" ]
+        "word": "Eli̇şi̇",
+        "tabooWords": [ "Dantel", "Örgü", "Çeyi̇z", "Okul", "Ders" ]
     },
     {
-        "word": "Geli̇Nli̇K",
-        "tabooWords": [ "Evli̇Li̇K", "Duvak", "Gi̇Ymek", "Beyaz", "Elbi̇Se" ]
+        "word": "Geli̇nli̇k",
+        "tabooWords": [ "Evli̇li̇k", "Duvak", "Gi̇ymek", "Beyaz", "Elbi̇se" ]
     },
     {
         "word": "Krater",
-        "tabooWords": [ "Ay", "Göktaşi", "Çukur", "Yanardağ", "Volkan" ]
+        "tabooWords": [ "Ay", "Göktaşı", "Çukur", "Yanardağ", "Volkan" ]
     },
     {
-        "word": "Narsi̇St",
-        "tabooWords": [ "Hayran", "Benci̇L", "Egoi̇St", "Sevmek", "Kendi̇" ]
+        "word": "Narsi̇st",
+        "tabooWords": [ "Hayran", "Benci̇l", "Egoi̇st", "Sevmek", "Kendi̇" ]
     },
     {
         "word": "Eküri̇",
-        "tabooWords": [ "At", "İKi̇Li̇", "Arkadaş", "Yariş", "Ortak" ]
+        "tabooWords": [ "At", "İki̇li̇", "Arkadaş", "Yarış", "Ortak" ]
     },
     {
         "word": "Heba Etmek",
-        "tabooWords": [ "Zarar", "Harcamak", "Zi̇Yan Etmek", "Yi̇Ti̇Rmek", "Kaybetmek" ]
+        "tabooWords": [ "Zarar", "Harcamak", "Zi̇yan Etmek", "Yi̇ti̇rmek", "Kaybetmek" ]
     },
     {
         "word": "Testere",
-        "tabooWords": [ "Fi̇Lm", "Korku", "Alet", "Kesmek", "Ağaç" ]
+        "tabooWords": [ "Fi̇lm", "Korku", "Alet", "Kesmek", "Ağaç" ]
     },
     {
-        "word": "Kli̇P",
-        "tabooWords": [ "Müzi̇K", "Vi̇Deo", "Televi̇Zyon", "İZlemek", "Çekmek" ]
+        "word": "Kli̇p",
+        "tabooWords": [ "Müzi̇k", "Vi̇deo", "Televi̇zyon", "İzlemek", "Çekmek" ]
     },
     {
         "word": "Tören",
-        "tabooWords": [ "Bayrak", "Ni̇Kah", "Resmi̇", "Açiliş", "Merasi̇M" ]
+        "tabooWords": [ "Bayrak", "Ni̇kah", "Resmi̇", "Açılış", "Merasi̇m" ]
     },
     {
         "word": "Parmesan",
-        "tabooWords": [ "Peyni̇R", "Salata", "İTalyan", "Makarna", "Üst" ]
+        "tabooWords": [ "Peyni̇r", "Salata", "İtalyan", "Makarna", "Üst" ]
     },
     {
         "word": "Afacan",
-        "tabooWords": [ "Yaramaz", "Çocuk", "Zeki̇", "Kariştirmak", "Haylaz" ]
+        "tabooWords": [ "Yaramaz", "Çocuk", "Zeki̇", "Karıştırmak", "Haylaz" ]
     },
     {
         "word": "Ambargo",
-        "tabooWords": [ "Koymak", "Engellemek", "Ülke", "Ti̇Caret", "Uygulamak" ]
+        "tabooWords": [ "Koymak", "Engellemek", "Ülke", "Ti̇caret", "Uygulamak" ]
     },
     {
-        "word": "Sandik",
-        "tabooWords": [ "Çeyi̇Z", "Tahta", "Eşya", "Seçi̇M", "Oy Atmak" ]
+        "word": "Sandık",
+        "tabooWords": [ "Çeyi̇z", "Tahta", "Eşya", "Seçi̇m", "Oy Atmak" ]
     },
     {
         "word": "Beşamel",
         "tabooWords": [ "Sos", "Et", "Tavuk", "Un", "Süt" ]
     },
     {
-        "word": "İÇi̇ Geçmek",
-        "tabooWords": [ "Uyumak", "İStemek", "Yatmak", "İSteksi̇Z", "Yaşli" ]
+        "word": "İçi̇ Geçmek",
+        "tabooWords": [ "Uyumak", "İstemek", "Yatmak", "İsteksi̇z", "Yaşlı" ]
     },
     {
-        "word": "İSpanyol Paça",
-        "tabooWords": [ "Pantolon", "Kot", "Geni̇Ş", "Uç", "Moda" ]
+        "word": "İspanyol Paça",
+        "tabooWords": [ "Pantolon", "Kot", "Geni̇ş", "Uç", "Moda" ]
     },
     {
         "word": "Sülale",
-        "tabooWords": [ "Ai̇Le", "Akraba", "Soy", "Teyze", "Amca" ]
+        "tabooWords": [ "Ai̇le", "Akraba", "Soy", "Teyze", "Amca" ]
     },
     {
         "word": "Sarpa Sarmak",
-        "tabooWords": [ "Karişmak", "Çözmek", "İŞ", "Bozulmak", "Zorluk" ]
+        "tabooWords": [ "Karışmak", "Çözmek", "İş", "Bozulmak", "Zorluk" ]
     },
     {
         "word": "Getto",
-        "tabooWords": [ "Mahalle", "Şehi̇R", "Azinlik", "Yabanci", "Yaşamak" ]
+        "tabooWords": [ "Mahalle", "Şehi̇r", "Azınlık", "Yabancı", "Yaşamak" ]
     },
     {
-        "word": "İFlas Etmek",
-        "tabooWords": [ "Haci̇Z", "Banka", "Şi̇Rket", "Borç", "Batmak" ]
+        "word": "İflas Etmek",
+        "tabooWords": [ "Haci̇z", "Banka", "Şi̇rket", "Borç", "Batmak" ]
     },
     {
-        "word": "Açik Fi̇Ki̇Rli̇",
-        "tabooWords": [ "Anlamak", "Modern", "Yeni̇Li̇K", "Düşünmek", "Bağnaz" ]
+        "word": "Açık Fi̇kirli̇",
+        "tabooWords": [ "Anlamak", "Modern", "Yeni̇li̇k", "Düşünmek", "Bağnaz" ]
     },
     {
         "word": "Çullanmak",
-        "tabooWords": [ "Abanmak", "Üzeri̇Ne Gi̇Tmek", "Üstüne Düşmek", "Atlamak", "Ziplamak" ]
+        "tabooWords": [ "Abanmak", "Üzeri̇ne Gi̇tmek", "Üstüne Düşmek", "Atlamak", "Zıplamak" ]
     },
     {
         "word": "Justin Timberlake",
-        "tabooWords": [ "Şarkici", "Ameri̇Ka", "Dans", "Erkek", "Britney Spears" ]
+        "tabooWords": [ "Şarkıcı", "Ameri̇ka", "Dans", "Erkek", "Britney Spears" ]
     },
     {
         "word": "Kabakulak",
-        "tabooWords": [ "Çocuk", "Hastalik", "Kizamik", "Suçi̇Çeği̇", "Şi̇Şmek" ]
+        "tabooWords": [ "Çocuk", "Hastalık", "Kızamık", "Su Çiçeği", "Şi̇şmek" ]
     },
     {
         "word": "Garanti̇ Belgesi̇",
-        "tabooWords": [ "Bozulmak", "Tami̇R", "Yil", "Taahhüt", "Eşya" ]
+        "tabooWords": [ "Bozulmak", "Tami̇r", "Yıl", "Taahhüt", "Eşya" ]
     },
     {
-        "word": "Emri̇Vaki̇ Yapmak",
-        "tabooWords": [ "Oldubi̇Tti̇", "Ani̇", "Acele", "Kargaşa", "Zorlamak" ]
+        "word": "Emri̇vaki̇ Yapmak",
+        "tabooWords": [ "Oldubi̇tti̇", "Ani̇", "Acele", "Kargaşa", "Zorlamak" ]
     },
     {
         "word": "Rokfor",
-        "tabooWords": [ "Peyni̇R", "Küf", "Süt", "Fransiz", "Beyaz" ]
+        "tabooWords": [ "Peyni̇r", "Küf", "Süt", "Fransız", "Beyaz" ]
     },
     {
-        "word": "Hi̇Lal",
-        "tabooWords": [ "Ay", "Şeki̇L", "Dolunay", "Yildiz", "Bayrak" ]
+        "word": "Hi̇lal",
+        "tabooWords": [ "Ay", "Şeki̇l", "Dolunay", "Yıldız", "Bayrak" ]
     },
     {
         "word": "Abone",
-        "tabooWords": [ "Dergi̇", "Ay", "Gazete", "Gelmek", "Yonca Evci̇Mi̇K" ]
+        "tabooWords": [ "Dergi̇", "Ay", "Gazete", "Gelmek", "Yonca Evci̇mik" ]
     },
     {
-        "word": "Si̇Vi̇L Toplum",
-        "tabooWords": [ "Örgüt", "Devlet", "Bağimsiz", "Dernek", "Vakif" ]
+        "word": "Si̇vil Toplum",
+        "tabooWords": [ "Örgüt", "Devlet", "Bağımsız", "Dernek", "Vakıf" ]
     },
     {
         "word": "Donmak",
-        "tabooWords": [ "Buz", "Sifir", "Derece", "Su", "Kiş" ]
+        "tabooWords": [ "Buz", "Sıfır", "Derece", "Su", "Kış" ]
     },
     {
         "word": "Kafa Dengi̇",
-        "tabooWords": [ "Arkadaş", "Uyumlu", "Anlaşmak", "Ayni", "Zevk" ]
+        "tabooWords": [ "Arkadaş", "Uyumlu", "Anlaşmak", "Benzer", "Zevk" ]
     },
     {
         "word": "Süvari̇",
-        "tabooWords": [ "At", "Asker", "Bi̇Nmek", "Savaş", "Pi̇Yade" ]
+        "tabooWords": [ "At", "Asker", "Bi̇nmek", "Savaş", "Pi̇yade" ]
     },
     {
         "word": "Sükunet",
-        "tabooWords": [ "Durgun", "Sessi̇Z", "Huzurlu", "Di̇Ngi̇N", "Gürültülü" ]
+        "tabooWords": [ "Durgun", "Sessi̇z", "Huzurlu", "Di̇ngi̇n", "Gürültülü" ]
     },
     {
-        "word": "Başi Bağli",
-        "tabooWords": [ "Evli̇", "Ni̇Şanli", "Sözlü", "Bekar", "Sevgi̇Li̇" ]
+        "word": "Başı Bağlı",
+        "tabooWords": [ "Evli̇", "Ni̇şanlı", "Sözlü", "Bekar", "Sevgi̇li̇" ]
     },
     {
-        "word": "Lületaşi",
-        "tabooWords": [ "Pi̇Po", "Beyaz", "Oymak", "Yumuşak", "Eski̇Şehi̇R" ]
+        "word": "Lületaşı",
+        "tabooWords": [ "Pi̇po", "Beyaz", "Oymak", "Yumuşak", "Eski̇şehi̇r" ]
     },
     {
         "word": "Suspus",
-        "tabooWords": [ "Si̇Nmek", "Konuşmak", "Sessi̇Z", "Suçlu", "Cevap Vermek" ]
+        "tabooWords": [ "Si̇nmek", "Konuşmak", "Sessi̇z", "Suçlu", "Cevap Vermek" ]
     },
     {
         "word": "Jant",
-        "tabooWords": [ "Araba", "Parça", "Tekerlek", "Lasti̇K", "Çeli̇K" ]
+        "tabooWords": [ "Araba", "Parça", "Tekerlek", "Lasti̇k", "Çeli̇k" ]
     },
     {
-        "word": "Mesuli̇Yet",
-        "tabooWords": [ "Sorumluluk", "Görev", "İLgi̇", "Yüklenmek", "Üstlenmek" ]
+        "word": "Mesuli̇yet",
+        "tabooWords": [ "Sorumluluk", "Görev", "İlgi̇", "Yüklenmek", "Üstlenmek" ]
     },
     {
         "word": "Pasaj",
-        "tabooWords": [ "Çarşi", "Dükkan", "Beyoğlu", "Alişveri̇Ş", "Kapali" ]
+        "tabooWords": [ "Çarşı", "Dükkan", "Beyoğlu", "Alışveri̇ş", "Kapalı" ]
     },
     {
         "word": "Noel Baba",
-        "tabooWords": [ "Yilbaşi", "Hedi̇Ye", "Ren Geyi̇Ği̇", "Baca", "Aralik" ]
+        "tabooWords": [ "Yılbaşı", "Hedi̇ye", "Ren Geyi̇ği̇", "Baca", "Aralık" ]
     },
     {
         "word": "At Gözlüğü",
-        "tabooWords": [ "Sabi̇T Fi̇Ki̇Rli̇", "Düşünmek", "Bakmak", "Dar", "Tutucu" ]
+        "tabooWords": [ "Sabi̇t Fi̇kirli̇", "Düşünmek", "Bakmak", "Dar", "Tutucu" ]
     },
     {
-        "word": "Başa Çikmak",
-        "tabooWords": [ "Güç", "Yetmek", "Başarmak", "Üstesi̇Nden Gelmek", "Dert" ]
+        "word": "Başa Çıkmak",
+        "tabooWords": [ "Güç", "Yetmek", "Başarmak", "Üstesi̇nden Gelmek", "Dert" ]
     },
     {
         "word": "Lokal",
-        "tabooWords": [ "Anestezi̇", "Uluslararasi", "Dernek", "Gece Kulübü", "Yerel" ]
+        "tabooWords": [ "Anestezi̇", "Uluslararası", "Dernek", "Gece Kulübü", "Yerel" ]
     },
     {
-        "word": "Pi̇Yon",
-        "tabooWords": [ "Satranç", "Taş", "Şah", "Vezi̇R", "Oyun" ]
+        "word": "Pi̇yon",
+        "tabooWords": [ "Satranç", "Taş", "Şah", "Vezi̇r", "Oyun" ]
     },
     {
-        "word": "Şahi̇N",
-        "tabooWords": [ "Kartal", "Doğan", "Kuş", "Yirtici", "Araba" ]
+        "word": "Şahi̇n",
+        "tabooWords": [ "Kartal", "Doğan", "Kuş", "Yırtıcı", "Araba" ]
     },
     {
         "word": "Fobi̇",
-        "tabooWords": [ "Korku", "Örümcek", "Yüksekli̇K", "Aşiri", "Pani̇K" ]
+        "tabooWords": [ "Korku", "Örümcek", "Yüksekli̇k", "Aşırı", "Pani̇k" ]
     },
     {
-        "word": "Vakif",
-        "tabooWords": [ "Hayir İŞi̇", "Bağiş", "Kuruluş", "Dernek", "Yardim" ]
+        "word": "Vakıf",
+        "tabooWords": [ "Hayır İşi̇", "Bağış", "Kuruluş", "Dernek", "Yardım" ]
     },
     {
         "word": "Tolerans",
-        "tabooWords": [ "Hoşgörü", "Anlayiş", "Göstermek", "Müsamaha", "Hata" ]
+        "tabooWords": [ "Hoşgörü", "Anlayış", "Göstermek", "Müsamaha", "Hata" ]
     },
     {
         "word": "Rastgele",
-        "tabooWords": [ "Herhangi̇", "Geli̇Şi̇Güzel", "Seçmek", "Seslenmek", "Balikçi" ]
+        "tabooWords": [ "Herhangi̇", "Geli̇şi̇güzel", "Seçmek", "Seslenmek", "Balıkçı" ]
     },
     {
-        "word": "Afi̇Ş",
-        "tabooWords": [ "Asmak", "Duvar", "Konser", "Si̇Nema", "Fi̇Lm" ]
+        "word": "Afi̇ş",
+        "tabooWords": [ "Asmak", "Duvar", "Konser", "Si̇nema", "Fi̇lm" ]
     },
     {
         "word": "Fondöten",
-        "tabooWords": [ "Makyaj", "Sürmek", "Yüz", "Kapatici", "Pudra" ]
+        "tabooWords": [ "Makyaj", "Sürmek", "Yüz", "Kapatıcı", "Pudra" ]
     },
     {
-        "word": "Tedbi̇Rli̇",
-        "tabooWords": [ "Önlemek", "Hazirlikli", "Almak", "Önce", "Düşünmek" ]
+        "word": "Tedbi̇rli̇",
+        "tabooWords": [ "Önlemek", "Hazırlıklı", "Almak", "Önce", "Düşünmek" ]
     },
     {
-        "word": "Çakişmak",
-        "tabooWords": [ "Üst Üste", "Ayni", "Zaman", "Denk Gelmek", "Kesi̇Şmek" ]
+        "word": "Çakışmak",
+        "tabooWords": [ "Üst Üste", "Aynı", "Zaman", "Denk Gelmek", "Kesi̇şmek" ]
     },
     {
         "word": "Izgara",
-        "tabooWords": [ "Mangal", "Pi̇Şi̇Rmek", "Et", "Tavuk", "Barbekü" ]
+        "tabooWords": [ "Mangal", "Pi̇şirmek", "Et", "Tavuk", "Barbekü" ]
     },
     {
         "word": "Feng Shui",
@@ -1961,123 +1961,123 @@
     },
     {
         "word": "Orhan Pamuk",
-        "tabooWords": [ "Roman", "Nobel", "Yazar", "Beni̇M Adim Kirmizi", "Masumi̇Yet Müzesi̇" ]
+        "tabooWords": [ "Roman", "Nobel", "Yazar", "Beni̇m Adım Kırmızı", "Masumi̇yet Müzesi̇" ]
     },
     {
         "word": "Horozlanmak",
-        "tabooWords": [ "Dayilanmak", "Kafa Tutmak", "Di̇Kleşmek", "Kavga", "Cesaret" ]
+        "tabooWords": [ "Dayılanmak", "Kafa Tutmak", "Di̇kleşmek", "Kavga", "Cesaret" ]
     },
     {
-        "word": "Meki̇K Çekmek",
-        "tabooWords": [ "Karin Kasi", "Egzersi̇Z", "Göbek", "Spor", "Şinav Çekmek" ]
+        "word": "Meki̇k Çekmek",
+        "tabooWords": [ "Karın Kası", "Egzersi̇z", "Göbek", "Spor", "Şınav Çekmek" ]
     },
     {
-        "word": "Oyun Havasi",
-        "tabooWords": [ "Göbek", "Dans Etmek", "Oryantal", "Müzi̇K", "Eğlenmek" ]
+        "word": "Oyun Havası",
+        "tabooWords": [ "Göbek", "Dans Etmek", "Oryantal", "Müzi̇k", "Eğlenmek" ]
     },
     {
-        "word": "Eli̇ Siki",
-        "tabooWords": [ "Ci̇Mri̇", "Para", "Harcamak", "Bi̇Ri̇Kti̇Rmek", "Tutumlu" ]
+        "word": "Eli Sıkı",
+        "tabooWords": ["Cimri", "Para", "Harcamak", "Biriktirmek", "Tutumlu"]
     },
     {
-        "word": "Gidik",
-        "tabooWords": [ "Öpmek", "Bebek", "Çene", "Gerdan", "Şi̇Şman" ]
+        "word": "Gıdık",
+        "tabooWords": ["Öpmek", "Bebek", "Çene", "Gerdan", "Şişman"]
     },
     {
-        "word": "Yeti̇Nmek",
-        "tabooWords": [ "Az", "Çok", "İStemek", "İDare Etmek", "Sahi̇P Olmak" ]
+        "word": "Yetinmek",
+        "tabooWords": ["Az", "Çok", "İstemek", "İdare Etmek", "Sahip Olmak"]
     },
     {
         "word": "Magma",
-        "tabooWords": [ "Yer Alti", "Volkan", "Eri̇Mek", "Yanardağ", "Lav" ]
+        "tabooWords": ["Yer Altı", "Volkan", "Erimmek", "Yanardağ", "Lav"]
     },
     {
         "word": "Köçek",
-        "tabooWords": [ "Dansöz", "Oryantal", "Oynamak", "Düğün", "Erkek" ]
+        "tabooWords": ["Dansöz", "Oryantal", "Oynamak", "Düğün", "Erkek"]
     },
     {
         "word": "Jack Sparrow",
-        "tabooWords": [ "Johny Depp", "Karayi̇P", "Korsan", "Kaptan", "Fi̇Lm" ]
+        "tabooWords": [ "Johny Depp", "Karayi̇p", "Korsan", "Kaptan", "Fi̇lm" ]
     },
     {
-        "word": "Kisitli",
-        "tabooWords": [ "İMkan", "Az", "Sinirli", "Yokluk", "Olanak" ]
+        "word": "Kısıtlı",
+        "tabooWords": [ "İmkan", "Az", "Sınırlı", "Yokluk", "Olanak" ]
     },
     {
-        "word": "Nejat İŞler",
-        "tabooWords": [ "Aktör", "Si̇Nema", "Di̇Zi̇", "Barda", "Televi̇Zyon" ]
+        "word": "Nejat İşler",
+        "tabooWords": [ "Aktör", "Si̇nema", "Di̇zi̇", "Barda", "Televi̇zyon" ]
     },
     {
         "word": "Paçanga Böreği̇",
-        "tabooWords": [ "Pastirma", "Meyhane", "Meze", "Yemek", "Ara Sicak" ]
+        "tabooWords": [ "Pastırma", "Meyhane", "Meze", "Yemek", "Ara Sıcak" ]
     },
     {
-        "word": "Ri̇Mel",
-        "tabooWords": [ "Göz", "Makyaj", "Kadin", "Sürmek", "Ki̇Rpi̇K" ]
+        "word": "Ri̇mel",
+        "tabooWords": [ "Göz", "Makyaj", "Kadın", "Sürmek", "Ki̇rpi̇k" ]
     },
     {
         "word": "Küçük Düşürmek",
-        "tabooWords": [ "Dalga Geçmek", "Gülmek", "Alay", "Aşağilamak", "Utandirmak" ]
+        "tabooWords": [ "Dalga Geçmek", "Gülmek", "Alay", "Aşağılamak", "Utandırmak" ]
     },
     {
         "word": "Hovarda",
-        "tabooWords": [ "Çapkin", "Sevgi̇Li̇", "Gece", "Para Harcamak", "Gönül" ]
+        "tabooWords": [ "Çapkın", "Sevgi̇li̇", "Gece", "Para Harcamak", "Gönül" ]
     },
     {
         "word": "Teflon",
-        "tabooWords": [ "Emaye", "Tava", "Yapişmak", "Çeli̇K", "Çi̇Zmek" ]
+        "tabooWords": [ "Emaye", "Tava", "Yapışmak", "Çelik", "Çi̇zmek" ]
     },
     {
         "word": "Avuç",
-        "tabooWords": [ "El", "Açmak", "Di̇Lenci̇", "Fal", "Aya" ]
+        "tabooWords": [ "El", "Açmak", "Di̇lenci̇", "Fal", "Aya" ]
     },
     {
-        "word": "Dayanikli",
-        "tabooWords": [ "Eşya", "Sağlam", "Kirilmak", "Bozulmak", "Tüketi̇M" ]
+        "word": "Dayanıklı",
+        "tabooWords": [ "Eşya", "Sağlam", "Kırılmak", "Bozulmak", "Tüketi̇m" ]
     },
     {
         "word": "Avucunu Yalamak",
-        "tabooWords": [ "Almak", "Kalmak", "Kaybetmek", "İStemek", "Bi̇Tmek" ]
+        "tabooWords": [ "Almak", "Kalmak", "Kaybetmek", "İstemek", "Bi̇tmek" ]
     },
     {
         "word": "Uzanmak",
-        "tabooWords": [ "Yorgun", "Hasta", "Yatmak", "Tv", "Di̇Nlenmek" ]
+        "tabooWords": [ "Yorgun", "Hasta", "Yatmak", "TV", "Di̇nlenmek" ]
     },
     {
-        "word": "Endamli",
-        "tabooWords": [ "Uzun", "Gösteri̇Şli̇", "Boylu Poslu", "Güzel", "Zarafet" ]
+        "word": "Endamlı",
+        "tabooWords": [ "Uzun", "Gösteri̇şli̇", "Boylu Poslu", "Güzel", "Zarafet" ]
     },
     {
         "word": "Neon",
-        "tabooWords": [ "Işik", "Tabela", "Renkli̇", "Lamba", "Gaz" ]
+        "tabooWords": [ "Işık", "Tabela", "Renkli̇", "Lamba", "Gaz" ]
     },
     {
-        "word": "Banli̇Yö",
+        "word": "Banli̇yö",
         "tabooWords": [ "Taşra", "Merkez", "Uzak", "Oturmak", "Tren" ]
     },
     {
         "word": "Saf Kan",
-        "tabooWords": [ "At", "Ci̇Ns", "Irk", "Özelli̇K", "Karişmak" ]
+        "tabooWords": [ "At", "Ci̇ns", "Irk", "Özelli̇k", "Karışmak" ]
     },
     {
-        "word": "İPucu",
-        "tabooWords": [ "Dedekti̇F", "Poli̇S", "Çözmek", "Deli̇L", "Aramak" ]
+        "word": "İpucu",
+        "tabooWords": [ "Dedekti̇f", "Poli̇s", "Çözmek", "Deli̇l", "Aramak" ]
     },
     {
         "word": "Küre",
-        "tabooWords": [ "Dai̇Re", "Fal", "Dünya", "Yuvarlak", "Şeki̇L" ]
+        "tabooWords": [ "Dai̇re", "Fal", "Dünya", "Yuvarlak", "Şeki̇l" ]
     },
     {
         "word": "Sağanak",
-        "tabooWords": [ "Yağmur", "Hava", "Kar", "Bulut", "Şemsi̇Ye" ]
+        "tabooWords": [ "Yağmur", "Hava", "Kar", "Bulut", "Şemsi̇ye" ]
     },
     {
         "word": "Lehçe",
-        "tabooWords": [ "Di̇L", "Konuşmak", "Şi̇Ve", "Ağiz", "Farkli" ]
+        "tabooWords": [ "Di̇l", "Konuşmak", "Şi̇ve", "Ağız", "Farklı" ]
     },
     {
-        "word": "Bahse Gi̇Rmek",
-        "tabooWords": [ "İDdi̇A", "At Yarişi", "Maç", "Para", "Kumar" ]
+        "word": "Bahse Gi̇rmek",
+        "tabooWords": [ "İddi̇a", "At Yarışı", "Maç", "Para", "Kumar" ]
     },
     {
         "word": "Mama Sandalyesi̇",
@@ -2085,183 +2085,183 @@
     },
     {
         "word": "Taarruz",
-        "tabooWords": [ "Saldiri", "Eski̇", "Savaş", "Emri̇", "Hücum" ]
+        "tabooWords": [ "Saldırı", "Eski̇", "Savaş", "Emir", "Hücum" ]
     },
     {
-        "word": "Kulak Zari",
+        "word": "Kulak Zarı",
         "tabooWords": [ "Organ", "Duymak", "Patlamak", "Yüz", "Burun" ]
     },
     {
-        "word": "Himbil",
-        "tabooWords": [ "Yavaş", "Tembel", "Uyuşuk", "Hareket", "Şi̇Şman" ]
+        "word": "Hımbıl",
+        "tabooWords": [ "Yavaş", "Tembel", "Uyuşuk", "Hareket", "Şi̇şman" ]
     },
     {
         "word": "Rekabet",
-        "tabooWords": [ "Hirs", "Çeki̇Şme", "Yarişma", "Raki̇P", "Spor" ]
+        "tabooWords": [ "Hırs", "Çeki̇şme", "Yarişma", "Raki̇p", "Spor" ]
     },
     {
-        "word": "Femi̇Ni̇St",
-        "tabooWords": [ "Kadin", "Hak", "Savunmak", "Eşi̇Tli̇K", "Hareket" ]
+        "word": "Femi̇ni̇st",
+        "tabooWords": [ "Kadın", "Hak", "Savunmak", "Eşi̇tli̇k", "Hareket" ]
     },
     {
         "word": "Endoskopi̇",
-        "tabooWords": [ "Ağiz", "Kamera", "Mi̇De", "Boru", "Sokmak" ]
+        "tabooWords": [ "Ağız", "Kamera", "Mi̇de", "Boru", "Sokmak" ]
     },
     {
-        "word": "Mi̇Mi̇K",
-        "tabooWords": [ "Yüz", "Anlatmak", "İFade", "Hareket", "Duygu" ]
+        "word": "Mimik",
+        "tabooWords": [ "Yüz", "Anlatmak", "İfade", "Hareket", "Duygu" ]
     },
     {
         "word": "Afyon",
-        "tabooWords": [ "Şehi̇R", "Sucuk", "Haşhaş", "Kaymak", "Patlamak" ]
+        "tabooWords": [ "Şehi̇r", "Sucuk", "Haşhaş", "Kaymak", "Patlamak" ]
     },
     {
-        "word": "Nai̇F",
-        "tabooWords": [ "Saf", "Hassas", "Duygusal", "Masum", "İYi̇ Ni̇Yetli̇" ]
+        "word": "Nai̇f",
+        "tabooWords": [ "Saf", "Hassas", "Duygusal", "Masum", "İyi̇ Ni̇yetli̇" ]
     },
     {
-        "word": "Karbonhi̇Drat",
-        "tabooWords": [ "Kalori̇", "Ekmek", "Di̇Yet", "Makarna", "Protei̇N" ]
+        "word": "Karbonhi̇drat",
+        "tabooWords": [ "Kalori̇", "Ekmek", "Di̇yet", "Makarna", "Protei̇n" ]
     },
     {
         "word": "Sendrom",
-        "tabooWords": [ "Beli̇Rti̇", "Hastalik", "Bunalim", "Pazartesi̇", "Sikinti" ]
+        "tabooWords": [ "Beli̇rti̇", "Hastalık", "Bunalım", "Pazartesi̇", "Sıkıntı" ]
     },
     {
-        "word": "Ki̇Naye",
-        "tabooWords": [ "İĞneleme", "Dolayli", "İMa Etme", "Üstü Kapali", "Laf Dokundurmak" ]
+        "word": "Ki̇naye",
+        "tabooWords": [ "İğneleme", "Dolaylı", "İma Etme", "Üstü Kapalı", "Laf Dokundurmak" ]
     },
     {
-        "word": "Çi̇Zmeyi̇ Aşmak",
-        "tabooWords": [ "İLeri̇ Gi̇Tmek", "Haddi̇Ni̇ Aşmak", "Sinir", "Bi̇Lmek", "Çi̇Zgi̇" ]
+        "word": "Çi̇zmeyi̇ Aşmak",
+        "tabooWords": [ "İleri̇ Gi̇tmek", "Haddi̇ni̇ Aşmak", "Sinir", "Bi̇lmek", "Çi̇zgi̇" ]
     },
     {
         "word": "Tavukgöğsü",
-        "tabooWords": [ "Tatli", "Süt", "Muhallebi̇", "Kazandi̇Bi̇", "Yemek" ]
+        "tabooWords": [ "Tatlı", "Süt", "Muhallebi̇", "Kazandi̇bi̇", "Yemek" ]
     },
     {
-        "word": "Buz Daği",
-        "tabooWords": [ "Iceberg", "Ti̇Tani̇K", "Kutup", "Deni̇Z", "Soğuk" ]
+        "word": "Buz Dağı",
+        "tabooWords": [ "Iceberg", "Ti̇tani̇k", "Kutup", "Deni̇z", "Soğuk" ]
     },
     {
-        "word": "Di̇Sko",
-        "tabooWords": [ "Dans", "Müzi̇K", "Eğlenmek", "Gece", "Kulüp" ]
+        "word": "Di̇sko",
+        "tabooWords": [ "Dans", "Müzi̇k", "Eğlenmek", "Gece", "Kulüp" ]
     },
     {
-        "word": "Yeni̇Yetme",
-        "tabooWords": [ "Çocuk", "Deli̇Kanli", "Yaşli", "Genç", "Yeti̇Şki̇N" ]
+        "word": "Yeni̇yetme",
+        "tabooWords": [ "Çocuk", "Deli̇kanlı", "Yaşlı", "Genç", "Yeti̇şki̇n" ]
     },
     {
         "word": "Horon",
-        "tabooWords": [ "Karadeni̇Z", "Laz", "Tulum", "Tepmek", "Halk Oyunu" ]
+        "tabooWords": [ "Karadeni̇z", "Laz", "Tulum", "Tepmek", "Halk Oyunu" ]
     },
     {
         "word": "Mülakat",
-        "tabooWords": [ "Soru Sormak", "Görüşme", "İŞe Almak", "Röportaj", "Özgeçmi̇Ş" ]
+        "tabooWords": [ "Soru Sormak", "Görüşme", "İşe Almak", "Başvuru", "Özgeçmi̇ş" ]
     },
     {
-        "word": "Pi̇Şmani̇Ye",
-        "tabooWords": [ "Yi̇Yecek", "Tel Tel", "Tatli", "İZmi̇T", "Yolculuk" ]
+        "word": "Pi̇şmani̇ye",
+        "tabooWords": [ "Yi̇yecek", "Tel Tel", "Tatlı", "İzmi̇t", "Yolculuk" ]
     },
     {
-        "word": "İMa Etmek",
-        "tabooWords": [ "Dokundurmak", "Doğrudan", "Dolayli", "Sezdi̇Rmek", "Söylemek" ]
+        "word": "İma Etmek",
+        "tabooWords": [ "Dokundurmak", "Doğrudan", "Dolaylı", "Sezdi̇rmek", "Söylemek" ]
     },
     {
         "word": "Straplez",
-        "tabooWords": [ "Bluz", "Üst", "Aski", "Omuz", "Dekolte" ]
+        "tabooWords": [ "Bluz", "Üst", "Askı", "Omuz", "Dekolte" ]
     },
     {
-        "word": "Ağir Aksak",
-        "tabooWords": [ "Yavaş", "Düzensi̇Z", "Hizli", "Dörtnala", "İLerlemek" ]
+        "word": "Ağır Aksak",
+        "tabooWords": [ "Yavaş", "Düzensi̇z", "Hızlı", "Dörtnala", "İlerlemek" ]
     },
     {
         "word": "Ismarlamak",
-        "tabooWords": [ "İStemek", "Para", "Yemek", "Si̇Pari̇Ş", "Ödemek" ]
+        "tabooWords": [ "İstemek", "Para", "Yemek", "Si̇pari̇ş", "Ödemek" ]
     },
     {
         "word": "Yalap Şap",
-        "tabooWords": [ "Üstünkörü", "Geli̇Şi̇Güzel", "Temi̇Zli̇K", "İŞ", "Cevaplamak" ]
+        "tabooWords": [ "Üstünkörü", "Geli̇şi̇güzel", "Temi̇zli̇k", "İş", "Cevaplamak" ]
     },
     {
         "word": "Zonklamak",
-        "tabooWords": [ "Baş Ağrisi", "Vurmak", "Ağrimak", "Şakak", "Beyi̇N" ]
+        "tabooWords": [ "Baş Ağrısı", "Vurmak", "Ağrımak", "Şakak", "Beyin" ]
     },
     {
-        "word": "Kri̇Z Masasi",
-        "tabooWords": [ "Beledi̇Ye", "Kurul", "Felaket", "Deprem", "Oluşturmak" ]
+        "word": "Kri̇z Masası",
+        "tabooWords": [ "Beledi̇ye", "Kurul", "Felaket", "Deprem", "Oluşturmak" ]
     },
     {
-        "word": "Yil Dönümü",
-        "tabooWords": [ "Kutlama", "Evli̇Li̇K", "Ölüm", "Gün", "Kuruluş" ]
+        "word": "Yıl Dönümü",
+        "tabooWords": [ "Kutlama", "Evli̇li̇k", "Ölüm", "Gün", "Kuruluş" ]
     },
     {
-        "word": "Tanri Mi̇Safi̇Ri̇",
-        "tabooWords": [ "Konuk", "Ev", "Gelmek", "Beklemek", "Ani̇Den" ]
+        "word": "Tanrı Mi̇safi̇ri̇",
+        "tabooWords": [ "Konuk", "Ev", "Gelmek", "Beklemek", "Ani̇den" ]
     },
     {
         "word": "Mahcup",
-        "tabooWords": [ "Çeki̇Ngen", "Utangaç", "Güvensi̇Z", "Rahat", "Gi̇Ri̇Şken" ]
+        "tabooWords": [ "Çeki̇ngen", "Utangaç", "Güvensi̇z", "Rahat", "Gi̇ri̇şken" ]
     },
     {
-        "word": "Alakart Mönü",
-        "tabooWords": [ "Açik Büfe", "Fi̇Ks Mönü", "Seçmek", "Restoran", "Yemek" ]
+        "word": "Alakart Menü",
+        "tabooWords": [ "Açık Büfe", "Fi̇ks Menü", "Seçmek", "Restoran", "Yemek" ]
     },
     {
         "word": "Kamarot",
-        "tabooWords": [ "Gemi̇", "Yolcu", "Servi̇S", "Görevli̇", "Kaptan" ]
+        "tabooWords": [ "Gemi̇", "Yolcu", "Servi̇s", "Görevli̇", "Kaptan" ]
     },
     {
         "word": "Jön Türkler",
-        "tabooWords": [ "Osmanli", "Meşruti̇Yet", "Aydin", "Topluluk", "İTti̇Hat Ve Terakki̇" ]
+        "tabooWords": [ "Osmanlı", "Meşruti̇yet", "Aydın", "Topluluk", "İtti̇hat ve Terakki̇" ]
     },
     {
-        "word": "Eği̇K",
-        "tabooWords": [ "Düz", "Çi̇Zgi̇", "Di̇K", "Yamuk", "Durmak" ]
+        "word": "Eği̇k",
+        "tabooWords": [ "Düz", "Çi̇zgi̇", "Di̇k", "Yamuk", "Durmak" ]
     },
     {
         "word": "Slogan",
-        "tabooWords": [ "Atmak", "Mi̇Ti̇Ng", "Parti̇", "Propaganda", "Söz" ]
+        "tabooWords": [ "Atmak", "Mi̇ti̇ng", "Parti̇", "Propaganda", "Söz" ]
     },
     {
         "word": "Kafa Tutmak",
-        "tabooWords": [ "Kavga Etmek", "Tartişmak", "Karşi Gelmek", "Boyun Eğmek", "Di̇Klenmek" ]
+        "tabooWords": [ "Kavga Etmek", "Tartışmak", "Karşı Gelmek", "Boyun Eğmek", "Di̇klenmek" ]
     },
     {
         "word": "Boğa",
-        "tabooWords": [ "Hayvan", "Kirmizi", "Matador", "Burç", "İSpanya" ]
+        "tabooWords": [ "Hayvan", "Kırmızı", "Matador", "Burç", "İspanya" ]
     },
     {
         "word": "Paskalya",
-        "tabooWords": [ "Bahar", "Çörek", "Yumurta", "Hri̇Sti̇Yan", "Bayram" ]
+        "tabooWords": [ "Bahar", "Çörek", "Yumurta", "Hri̇sti̇yan", "Bayram" ]
     },
     {
         "word": "Absürt",
-        "tabooWords": [ "Saçma", "Komedi̇", "Uyumsuz", "Tutarsiz", "Fi̇Lm" ]
+        "tabooWords": [ "Saçma", "Komedi̇", "Uyumsuz", "Tutarsız", "Fi̇lm" ]
     },
     {
         "word": "Ateşkes",
-        "tabooWords": [ "Savaş", "Bariş", "Bi̇Ti̇Rmek", "Tesli̇M Olmak", "Anlaşmak" ]
+        "tabooWords": [ "Savaş", "Barış", "Bi̇ti̇rmek", "Tesli̇m Olmak", "Anlaşmak" ]
     },
     {
         "word": "Köse",
-        "tabooWords": [ "Kilsiz", "Biyik", "Sakal", "Tüy", "Traş" ]
+        "tabooWords": [ "Kılsız", "Bıyık", "Sakal", "Tüy", "Traş" ]
     },
     {
         "word": "Ağaçkakan",
         "tabooWords": [ "Hayvan", "Kuş", "Gaga", "Oymak", "Delmek" ]
     },
     {
-        "word": "Kitlama",
-        "tabooWords": [ "Çay", "İÇmek", "Şeker", "Isirmak", "Erzurum" ]
+        "word": "Kıtlama",
+        "tabooWords": [ "Çay", "İçmek", "Şeker", "Isırmak", "Erzurum" ]
     },
     {
         "word": "Rest Çekmek",
-        "tabooWords": [ "Poker", "Hepsi̇", "Para", "Son Vermek", "Karşi Çikmak" ]
+        "tabooWords": [ "Poker", "Hepsi̇", "Para", "Son Vermek", "Karşı Çikmak" ]
     },
     {
         "word": "Kontrbas",
-        "tabooWords": [ "Enstrüman", "Müzi̇K", "Alet", "Keman", "Yayli" ]
+        "tabooWords": [ "Enstrüman", "Müzi̇k", "Alet", "Keman", "Yaylı" ]
     },
     {
         "word": "Wolverine",
@@ -2269,274 +2269,274 @@
     },
     {
         "word": "Racon",
-        "tabooWords": [ "Kesmek", "Kabadayi", "Argo", "Fi̇Yaka", "Deli̇Kanli" ]
+        "tabooWords": [ "Kesmek", "Kabadayı", "Argo", "Fi̇yaka", "Deli̇kanlı" ]
     },
     {
-        "word": "Tirsmak",
-        "tabooWords": [ "Korkmak", "Çeki̇Nmek", "Ürkmek", "Cesaret", "Birakmak" ]
+        "word": "Tırsmak",
+        "tabooWords": [ "Korkmak", "Çeki̇nmek", "Ürkmek", "Cesaret", "Bırakmak" ]
     },
     {
         "word": "Bono",
-        "tabooWords": [ "U2", "Soli̇St", "Tahvi̇L", "Kağit", "Hi̇Sse Senedi̇" ]
+        "tabooWords": [ "U2", "Soli̇st", "Tahvi̇l", "Kağıt", "Hi̇sse Senedi̇" ]
     },
     {
         "word": "George Lucas",
-        "tabooWords": [ "Yönetmen", "Si̇Nema", "Star Wars", "Indiana Jones", "Fi̇Lm" ]
+        "tabooWords": [ "Yönetmen", "Si̇nema", "Star Wars", "Indiana Jones", "Fi̇lm" ]
     },
     {
         "word": "Kolaçan Etmek",
-        "tabooWords": [ "Devri̇Ye", "Dolaşmak", "Etraf", "Bakmak", "Kontrol" ]
+        "tabooWords": [ "Devri̇ye", "Dolaşmak", "Etraf", "Bakmak", "Kontrol" ]
     },
     {
         "word": "Zula",
-        "tabooWords": [ "Saklamak", "Gi̇Zli̇", "Koymak", "Kaçak", "Mal" ]
+        "tabooWords": [ "Saklamak", "Gi̇zli̇", "Koymak", "Kaçak", "Mal" ]
     },
     {
-        "word": "Li̇Nyi̇T",
+        "word": "Linyit",
         "tabooWords": [ "Kömür", "Maden", "Zonguldak", "Soba", "Yanman" ]
     },
     {
-        "word": "İHti̇Mal",
-        "tabooWords": [ "Belki̇", "Olasi", "Vermemek", "Olmak", "Umut" ]
+        "word": "İhtimal",
+        "tabooWords": [ "Belki̇", "Olası", "Vermemek", "Olmak", "Umut" ]
     },
     {
         "word": "Efor",
         "tabooWords": [ "Güç", "Çaba", "Harcamak", "Kalp", "Test" ]
     },
     {
-        "word": "Dolap Beygi̇Ri̇",
+        "word": "Dolap Beygi̇ri̇",
         "tabooWords": [ "Dönmek", "Bağlamak", "At", "Eşek", "Sürekli̇" ]
     },
     {
         "word": "Bufalo",
-        "tabooWords": [ "Siğir", "Ameri̇Ka", "Sürü", "Kovboy", "Bi̇Zon" ]
+        "tabooWords": [ "Sığır", "Ameri̇ka", "Sürü", "Kovboy", "Bi̇zon" ]
     },
     {
-        "word": "Siğinak",
-        "tabooWords": [ "Savaş", "Bomba", "Saklanmak", "Kaçmak", "Yer Alti" ]
+        "word": "Sığınak",
+        "tabooWords": [ "Savaş", "Bomba", "Saklanmak", "Kaçmak", "Yer Altı" ]
     },
     {
         "word": "Alyans",
-        "tabooWords": [ "Evli̇Li̇K", "Yüzük", "Kari-Koca", "Parmak", "Takmak" ]
+        "tabooWords": [ "Evli̇li̇k", "Yüzük", "Karı-Koca", "Parmak", "Takmak" ]
     },
     {
-        "word": "Alkoli̇K",
-        "tabooWords": [ "İÇki̇", "Gün", "Ayyaş", "Alişkanlik", "Bağimli" ]
+        "word": "Alkoli̇k",
+        "tabooWords": [ "İçki̇", "Sigara", "Ayyaş", "Alışkanlık", "Bağımlı" ]
     },
     {
         "word": "Atari̇",
-        "tabooWords": [ "Bi̇Lgi̇Sayar", "Eski̇", "Oyun", "Basi̇T", "Program" ]
+        "tabooWords": [ "Bi̇lgi̇sayar", "Eski̇", "Oyun", "Basi̇t", "Program" ]
     },
     {
         "word": "Maytap",
-        "tabooWords": [ "Işik", "Kivilcim", "Pasta", "Doğum Günü", "Yakmak" ]
+        "tabooWords": [ "Işık", "Kıvılcım", "Pasta", "Doğum Günü", "Yakmak" ]
     },
     {
-        "word": "İŞaret Di̇Li̇",
-        "tabooWords": [ "Sağir", "Konuşmak", "El", "Hareket", "İLeti̇Şi̇M" ]
+        "word": "İşaret Di̇li̇",
+        "tabooWords": [ "Sağır", "Konuşmak", "El", "Hareket", "İleti̇şi̇m" ]
     },
     {
         "word": "Tahtakale",
-        "tabooWords": [ "İStanbul", "Alişveri̇Ş", "Çarşi", "Ucuz", "Emi̇Nönü" ]
+        "tabooWords": [ "İstanbul", "Alışveri̇ş", "Çarşı", "Ucuz", "Emi̇nönü" ]
     },
     {
         "word": "Röntgenci̇",
-        "tabooWords": [ "Di̇Ki̇Z", "Gözetlemek", "Sapik", "Gi̇Zli̇", "Bakmak" ]
+        "tabooWords": [ "Dikiz", "Gözetlemek", "Sapık", "Gi̇zli̇", "Bakmak" ]
     },
     {
         "word": "Kemal Sunal",
-        "tabooWords": [ "Si̇Nema", "Komi̇K", "Oyuncu", "Hababam Sinifi", "İNek Şaban" ]
+        "tabooWords": [ "Si̇nema", "Komi̇k", "Oyuncu", "Hababam Sınıfı", "İnek Şaban" ]
     },
     {
-        "word": "Görgü Taniği",
-        "tabooWords": [ "Deli̇L", "Olay", "Mahkeme", "Çağirmak", "Ci̇Nayet" ]
+        "word": "Görgü Tanığı",
+        "tabooWords": [ "Deli̇l", "Olay", "Mahkeme", "Çağırmak", "Ci̇nayet" ]
     },
     {
         "word": "Ulak",
-        "tabooWords": [ "Haber", "Taşimak", "Götürmek", "Postaci", "At" ]
+        "tabooWords": [ "Haber", "Taşımak", "Götürmek", "Postacı", "At" ]
     },
     {
-        "word": "Pöti̇Bör",
-        "tabooWords": [ "Bi̇Sküvi̇", "Di̇Kdörtgen", "Çay", "Tatli", "Kurabi̇Ye" ]
+        "word": "Pöti̇bör",
+        "tabooWords": [ "Bi̇sküvi̇", "Di̇kdörtgen", "Çay", "Tatlı", "Kurabi̇ye" ]
     },
     {
-        "word": "Kaçin Kurasi",
-        "tabooWords": [ "Görmek", "Geçi̇Rmek", "Aldanmak", "Uyanik", "Tecrübeli̇" ]
+        "word": "Kaçın Kurası",
+        "tabooWords": [ "Görmek", "Geçi̇rmek", "Aldanmak", "Sezen Aksu", "Tecrübeli̇" ]
     },
     {
-        "word": "Zimba",
-        "tabooWords": [ "Tutturmak", "Kirtasi̇Ye", "Tel", "Delgeç", "Kağit" ]
+        "word": "Zımba",
+        "tabooWords": [ "Tutturmak", "Kırtasi̇ye", "Tel", "Delgeç", "Kağıt" ]
     },
     {
         "word": "Paspal",
-        "tabooWords": [ "Kokoş", "Dağinik", "Bakimsiz", "Şik", "Gi̇Yi̇Nmek" ]
+        "tabooWords": [ "Kokoş", "Dağınık", "Bakımsız", "Şık", "Giyinmek" ]
     },
     {
-        "word": "Çi̇Zme",
-        "tabooWords": [ "Ayakkabi", "Uzun", "Kadin", "Etek", "Bot" ]
+        "word": "Çi̇zme",
+        "tabooWords": [ "Ayakkabı", "Uzun", "Kadın", "Etek", "Bot" ]
     },
     {
-        "word": "Di̇Di̇Klemek",
-        "tabooWords": [ "İNcelemek", "Aramak", "Detay", "Soruşturmak", "Parçalamak" ]
+        "word": "Di̇diklemek",
+        "tabooWords": [ "İncelemek", "Aramak", "Detay", "Soruşturmak", "Parçalamak" ]
     },
     {
-        "word": "Pi̇Yaz",
+        "word": "Pi̇yaz",
         "tabooWords": [ "Salata", "Köfte", "Kuru Fasulye", "Haşlamak", "Soğan" ]
     },
     {
         "word": "Tombala",
-        "tabooWords": [ "Yilbaşi", "Oyun", "Çi̇Nko", "Çekmek", "Kart" ]
+        "tabooWords": [ "Yılbaşı", "Oyun", "Çi̇nko", "Çekmek", "Kart" ]
     },
     {
         "word": "Metres",
-        "tabooWords": [ "Kari-Koca", "Evli̇", "Aldatmak", "Yasak", "İLi̇Şki̇" ]
+        "tabooWords": [ "Karı-Koca", "Evli̇", "Aldatmak", "Yasak", "İlişki" ]
     },
     {
-        "word": "Kisa Fi̇Lm",
-        "tabooWords": [ "Si̇Nema", "Uzun", "Festi̇Val", "Daki̇Ka", "Yönetmen" ]
+        "word": "Kısa Fi̇lm",
+        "tabooWords": [ "Si̇nema", "Uzun", "Festi̇val", "Süre", "Yönetmen" ]
     },
     {
-        "word": "Çi̇Ft Kaşarli",
-        "tabooWords": [ "Tost", "Yemek", "Peyni̇R", "Uzamak", "Sucuk" ]
+        "word": "Çi̇ft Kaşarlı",
+        "tabooWords": [ "Tost", "Yemek", "Peyni̇r", "Uzamak", "Sucuk" ]
     },
     {
-        "word": "Kosta Ri̇Ka",
-        "tabooWords": [ "Ülke", "Ameri̇Ka", "Orta", "Panama", "Okyanus" ]
+        "word": "Kosta Rika",
+        "tabooWords": [ "Ülke", "Ameri̇ka", "Orta", "Panama", "Okyanus" ]
     },
     {
         "word": "Dazlak",
-        "tabooWords": [ "Kel", "Saç", "Dökülmek", "Neo-Nazi̇", "Kazitmak" ]
+        "tabooWords": [ "Kel", "Saç", "Dökülmek", "Tıraş", "Kazıtmak" ]
     },
     {
         "word": "Lodos",
-        "tabooWords": [ "Rüzgar", "Poyraz", "Esmek", "Deni̇Z", "Karayel" ]
+        "tabooWords": [ "Rüzgar", "Poyraz", "Esmek", "Deni̇z", "Karayel" ]
     },
     {
         "word": "Tac Mahal",
-        "tabooWords": [ "Hi̇Ndi̇Stan", "Tari̇Hi̇", "Saray", "Bi̇Na", "Kubbe" ]
+        "tabooWords": [ "Hi̇ndi̇stan", "Tari̇hi̇", "Saray", "Bi̇na", "Kubbe" ]
     },
     {
         "word": "Kolaj",
-        "tabooWords": [ "Resi̇M", "Bi̇Rleşti̇Rmek", "Kağit", "Kesmek", "Yapiştirmak" ]
+        "tabooWords": [ "Resi̇m", "Bi̇rleşti̇rmek", "Kağıt", "Kesmek", "Yapıştırmak" ]
     },
     {
         "word": "Manavgat Şelalesi̇",
-        "tabooWords": [ "Dökülmek", "Antalya", "Su", "Akmak", "Nehi̇R" ]
+        "tabooWords": [ "Yüksek", "Antalya", "Su", "Akmak", "Nehi̇r" ]
     },
     {
         "word": "Antoni Gaudi",
-        "tabooWords": [ "Mi̇Mar", "İSpanya", "Barcelona", "Sagrada Familia", "Tasarim" ]
+        "tabooWords": [ "Mi̇mar", "İspanya", "Barcelona", "Sagrada Familia", "Tasarım" ]
     },
     {
-        "word": "Kekli̇K",
-        "tabooWords": [ "Hayvan", "Kuş", "Avlamak", "Güverci̇N", "Vurmak" ]
+        "word": "Kekli̇k",
+        "tabooWords": [ "Hayvan", "Kuş", "Avlamak", "Güverci̇n", "Çanta" ]
     },
     {
         "word": "Erzak",
-        "tabooWords": [ "Yi̇Yecek", "Yolculuk", "Saklamak", "Konserve", "Ki̇Ler" ]
+        "tabooWords": [ "Yi̇yecek", "Yolculuk", "Saklamak", "Konserve", "Ki̇ler" ]
     },
     {
         "word": "Tantana",
-        "tabooWords": [ "Şamata", "Gürültü", "Olay", "Görkemli̇", "Şaşaali" ]
+        "tabooWords": [ "Şamata", "Gürültü", "Olay", "Görkemli̇", "Şaşaalı" ]
     },
     {
         "word": "Selektör",
-        "tabooWords": [ "Araba", "Far", "Işik", "Yakmak", "Uyarmak" ]
+        "tabooWords": [ "Araba", "Far", "Işık", "Yakmak", "Uyarmak" ]
     },
     {
-        "word": "Alin Teri̇",
-        "tabooWords": [ "Çalişmak", "Emek", "Dökmek", "Zahmet", "Uğraşmak" ]
+        "word": "Alın Teri̇",
+        "tabooWords": [ "Çalışmak", "Emek", "Dökmek", "Zahmet", "Uğraşmak" ]
     },
     {
         "word": "Adam Asmaca",
-        "tabooWords": [ "Oyun", "Keli̇Me", "Bulmak", "Çi̇Zmek", "Harf" ]
+        "tabooWords": [ "Oyun", "Keli̇me", "Bulmak", "Çi̇zmek", "Harf" ]
     },
     {
-        "word": "Semi̇Ner",
-        "tabooWords": [ "Konuşma", "Sunum", "Konferans", "Eği̇Ti̇M", "Toplanti" ]
+        "word": "Semi̇ner",
+        "tabooWords": [ "Konuşma", "Sunum", "Konferans", "Eği̇ti̇m", "Toplantı" ]
     },
     {
-        "word": "Eli̇Ps",
-        "tabooWords": [ "Şeki̇L", "Yuvarlak", "Dai̇Re", "Dünya", "Çember" ]
+        "word": "Eli̇ps",
+        "tabooWords": [ "Şeki̇l", "Yuvarlak", "Dai̇re", "Dünya", "Çember" ]
     },
     {
         "word": "Basamak",
-        "tabooWords": [ "Merdi̇Ven", "Çikmak", "Asansör", "Kullanmak", "Aşama" ]
+        "tabooWords": [ "Merdi̇ven", "Çıkmak", "Asansör", "Kullanmak", "Aşama" ]
     },
     {
         "word": "Kavşak",
-        "tabooWords": [ "Dört Yol", "Araba", "Kesi̇Şmek", "Bi̇Rleşmek", "Dönmek" ]
+        "tabooWords": [ "Dört Yol", "Araba", "Kesi̇şmek", "Bi̇rleşmek", "Dönmek" ]
     },
     {
-        "word": "Altyazi",
-        "tabooWords": [ "Si̇Nema", "Çevi̇Ri̇", "Fi̇Lm", "Dublaj", "İNgi̇Li̇Zce" ]
+        "word": "Altyazı",
+        "tabooWords": [ "Si̇nema", "Çevi̇ri̇", "Fi̇lm", "Dublaj", "İngi̇li̇zce" ]
     },
     {
         "word": "Alaturka",
-        "tabooWords": [ "Alafranga", "Müzi̇K", "Eski̇", "Gelenek", "Tuvalet" ]
+        "tabooWords": [ "Alafranga", "Müzi̇k", "Eski̇", "Gelenek", "Tuvalet" ]
     },
     {
-        "word": "Kanavi̇Çe",
-        "tabooWords": [ "Eli̇Şi̇", "Kasnak", "İPli̇K", "İĞne", "Bez" ]
+        "word": "Kanavi̇çe",
+        "tabooWords": [ "Eli̇şi̇", "Kasnak", "İpli̇k", "İğne", "Bez" ]
     },
     {
-        "word": "Di̇Spanser",
-        "tabooWords": [ "Hastane", "Doktor", "Verem", "Sağlik Ocaği", "Poli̇Kli̇Ni̇K" ]
+        "word": "Di̇spanser",
+        "tabooWords": [ "Hastane", "Doktor", "Verem", "Sağlık Ocağı", "Poliklinik" ]
     },
     {
-        "word": "Ci̇Nsi̇Yet",
-        "tabooWords": [ "Kadin", "Erkek", "Di̇Şi̇", "Doğmak", "Ki̇Mli̇K" ]
+        "word": "Ci̇nsi̇yet",
+        "tabooWords": [ "Kadın", "Erkek", "Di̇şi̇", "Doğmak", "Ki̇mli̇k" ]
     },
     {
         "word": "Lord",
-        "tabooWords": [ "Leydi̇", "Baron", "Unvan", "İNgi̇Ltere", "Asalet" ]
+        "tabooWords": [ "Leydi̇", "Baron", "Unvan", "İngi̇ltere", "Asalet" ]
     },
     {
         "word": "Rezerv",
-        "tabooWords": [ "Petrol", "Saklamak", "Yedek", "Bi̇Ri̇Kti̇Rmek", "Dövi̇Z" ]
+        "tabooWords": [ "Petrol", "Saklamak", "Yedek", "Bi̇ri̇kti̇rmek", "Merkez Bankası" ]
     },
     {
-        "word": "Vi̇Cdan Azabi",
-        "tabooWords": [ "Çekmek", "Duymak", "Üzülmek", "Aci", "Kötü" ]
+        "word": "Vi̇cdan Azabı",
+        "tabooWords": [ "Çekmek", "Duymak", "Üzülmek", "Acı", "Kötü" ]
     },
     {
-        "word": "Domi̇No",
-        "tabooWords": [ "Taş", "Oyun", "Devi̇Rmek", "Di̇Kdörtgen", "Nokta" ]
+        "word": "Domi̇no",
+        "tabooWords": [ "Taş", "Oyun", "Devi̇rmek", "Di̇kdörtgen", "Nokta" ]
     },
     {
-        "word": "Pi̇Lates",
-        "tabooWords": [ "Spor", "Egzersi̇Z", "Top", "Yoga", "Esnetmek" ]
+        "word": "Pi̇lates",
+        "tabooWords": [ "Spor", "Egzersi̇z", "Top", "Yoga", "Esnetmek" ]
     },
     {
-        "word": "Zirh",
-        "tabooWords": [ "Şövalye", "Korumak", "Savaş", "Metal", "Gi̇Ymek" ]
+        "word": "Zırh",
+        "tabooWords": [ "Şövalye", "Korumak", "Savaş", "Metal", "Gi̇ymek" ]
     },
     {
         "word": "Go-Kart",
-        "tabooWords": [ "Küçük", "Formula 1", "Motor", "Yariş", "Pi̇St" ]
+        "tabooWords": [ "Küçük", "Formula 1", "Motor", "Yarış", "Pi̇st" ]
     },
     {
         "word": "Saban",
-        "tabooWords": [ "Tarla", "Sürmek", "Çi̇Ftçi̇", "Tarim", "Hayvan" ]
+        "tabooWords": [ "Tarla", "Sürmek", "Çi̇ftçi̇", "Tarım", "Hayvan" ]
     },
     {
         "word": "Kavuk",
-        "tabooWords": [ "Osmanli", "Sarik", "Başlik", "Şapka", "Padi̇Şah" ]
+        "tabooWords": [ "Osmanlı", "Sarık", "Başlık", "Şapka", "Padi̇şah" ]
     },
     {
-        "word": "Tiris",
-        "tabooWords": [ "At", "Yürümek", "Dörtnala", "Hizli", "Viz Gelmek" ]
+        "word": "Tırıs",
+        "tabooWords": [ "At", "Yürümek", "Dörtnala", "Hızlı", "Vız Gelmek" ]
     },
     {
-        "word": "Gicirti",
-        "tabooWords": [ "Ses", "Kapi", "Yağlamak", "Tahta", "Pas" ]
+        "word": "Gıcırtı",
+        "tabooWords": [ "Ses", "Kapı", "Yağlamak", "Tahta", "Pas" ]
     },
     {
         "word": "Konforlu",
-        "tabooWords": [ "Rahat", "Döşemek", "Mobi̇Lya", "Otel", "Ev" ]
+        "tabooWords": [ "Rahat", "Döşemek", "Mobi̇lya", "Otel", "Ev" ]
     },
     {
-        "word": "Aşaği Yukari",
-        "tabooWords": [ "Yaklaşik", "Tahmi̇Ni̇", "Tam", "İNmek", "Çikmak" ]
+        "word": "Aşağı Yukarı",
+        "tabooWords": [ "Yaklaşık", "Tahmi̇ni̇", "Tam", "İnmek", "Çıkmak" ]
     }
 ]

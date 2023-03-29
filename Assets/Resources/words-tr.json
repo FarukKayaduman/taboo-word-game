@@ -73,7 +73,7 @@
   },
   {
     "word": "Okyanus",
-    "tabooWords": [ "Su", "Deniz", "Gökyüzü", "Balık", "Dalga" ]
+    "tabooWords": [ "Su", "Deniz", "Gemi", "Balık", "Dalga" ]
   },
   {
     "word": "Rüya",
@@ -165,7 +165,7 @@
   },
   {
     "word": "Gözlük",
-    "tabooWords": [ "Göz", "Çerçeve", "Lens", "Görmek", "Kırılmak" ]
+    "tabooWords": [ "Göz", "Çerçeve", "Lens", "Görmek", "Miyop" ]
   },
   {
     "word": "Beyin",
@@ -248,10 +248,6 @@
     "tabooWords": [ "Karanlık", "Ay", "Yıldız", "Uyku", "Yarım" ]
   },
   {
-    "word": "Güneş",
-    "tabooWords": [ "Sıcak", "Parlak", "Enerji", "Doğuş", "Batış" ]
-  },
-  {
     "word": "Aşk",
     "tabooWords": [ "Sevgili", "Romantik", "Evlilik", "İlişki", "Tutku" ]
   },
@@ -306,5 +302,45 @@
   {
     "word": "Gezi",
     "tabooWords": [ "Tatil", "Yolculuk", "Turist", "Yer", "Seyahat" ]
+  },
+  {
+    "word": "Eğitim",
+    "tabooWords": [ "Öğrenme", "Okul", "Öğretmen", "Ders", "Sınav" ]
+  },
+  {
+    "word": "Güneş",
+    "tabooWords": [ "Gündüz", "Sıcak", "Yıldız", "Doğu", "Batı" ]
+  },
+  {
+    "word": "İş",
+    "tabooWords": [ "Kariyer", "Maaş", "Şirket", "Çalışma", "İşsizlik" ]
+  },
+  {
+    "word": "Kedi",
+    "tabooWords": [ "Kürk", "Pençe", "Pamuk", "Miyavlamak", "Köpek" ]
+  },
+  {
+    "word": "Kış",
+    "tabooWords": [ "Soğuk", "Kar", "Atkı", "Palto", "Şömine" ]
+  },
+  {
+    "word": "Masa",
+    "tabooWords": [ "Sandalye", "Ofis", "Dergi", "Yemek", "Bilgisayar" ]
+  },
+  {
+    "word": "Pasta",
+    "tabooWords": [ "Tatlı", "Krem", "Kek", "Mutfak", "Dilim" ]
+  },
+  {
+    "word": "Piknik",
+    "tabooWords": [ "Doğa", "Sepet", "Kahvaltı", "Yaz", "Oyun" ]
+  },
+  {
+    "word": "Renk",
+    "tabooWords": [ "Görsel", "Ton", "Gözlük", "Boyama", "Spectrum" ]
+  },
+  {
+    "word": "Seyahat",
+    "tabooWords": [ "Turist", "Keşfetmek", "Tatil", "Uçak", "Tren" ]
   }
 ]

@@ -1372,6 +1372,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8737410661216146623, guid: 6c20c7a526ccd9a47961f418dbc44724, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 4291027850154159272}
+    - target: {fileID: 8737410661216146623, guid: 6c20c7a526ccd9a47961f418dbc44724, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnAboutButtonClicked
+      objectReference: {fileID: 0}
     - target: {fileID: 8737410661840839582, guid: 6c20c7a526ccd9a47961f418dbc44724, type: 3}
       propertyPath: m_text
       value: "Hakk\u0131nda"

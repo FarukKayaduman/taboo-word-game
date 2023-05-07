@@ -6,6 +6,7 @@ using UnityEngine.Networking;
 using System.Collections;
 using TMPro;
 using System.IO;
+using AdMobController;
 
 public class MainMenu : MonoBehaviour
 {
@@ -142,6 +143,7 @@ public class MainMenu : MonoBehaviour
     public void OnNewGameButtonClicked()
     {
         UIManager.Instance.GameplayUI.SetActive(true);
+        GoogleAdMobController.Instance.ShowInterstitialAd();
     }
 
     public void OnOptionsButtonClicked()

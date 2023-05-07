@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdMobController;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using TMPro;
@@ -36,6 +37,7 @@ public class GameManager : MonoBehaviour
     private int currentPassLimit;
     private int currentWordIndex;
     private float gameTime;
+    private int _gameIterationCount;
 
     public static string jsonString;
     private List<int> randomizedIndexes;
@@ -89,7 +91,12 @@ public class GameManager : MonoBehaviour
         currentScore = 0;
         isPlayingTeamB = !isPlayingTeamB;
         pausePanelWhoseeTurn.text = isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
+        _gameIterationCount++;
         pausePanel.SetActive(true);
+        if (_gameIterationCount % 4 == 0)
+        {
+            GoogleAdMobController.Instance.ShowInterstitialAd();
+        }
     }
 
     private void ResetGame()

@@ -63,6 +63,16 @@ crashlytics-build.properties
 /[Aa]ssets/Textures/Icons/
 /[Aa]ssets/Textures/Icons.meta
 
+# Google AdMob Directories
+/[Aa]ssets/ExternalDependencyManager/
+/[Aa]ssets/ExternalDependencyManager.meta
+/[Aa]ssets/GoogleMobileAds/
+/[Aa]ssets/GoogleMobileAds.meta
+/[Aa]ssets/Plugins/Android/
+/[Aa]ssets/Plugins/Android.meta
+/[Aa]ssets/Plugins/iOS/
+/[Aa]ssets/Plugins/iOS.meta
+
 # Other ignoring files
 /[Aa]ssets/Ignore/
 /[Aa]ssets/Ignore.meta

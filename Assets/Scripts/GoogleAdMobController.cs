@@ -1,4 +1,5 @@
 using GoogleMobileAds.Api;
+using System;
 using UnityEngine;
 
 namespace AdMobController
@@ -70,10 +71,8 @@ namespace AdMobController
                               + ad.GetResponseInfo());
 
                     _interstitialAd = ad;
+                    RegisterEventHandlers(_interstitialAd);
                 });
-
-            RegisterReloadHandler(_interstitialAd);
-
         }
 
         /// <summary>
@@ -98,12 +97,34 @@ namespace AdMobController
             }
         }
 
-        private void RegisterReloadHandler(InterstitialAd ad)
+        private void RegisterEventHandlers(InterstitialAd ad)
         {
+            // Raised when the ad is estimated to have earned money.
+            ad.OnAdPaid += (AdValue adValue) =>
+            {
+                Debug.Log(String.Format("Interstitial ad paid {0} {1}.",
+                    adValue.Value,
+                    adValue.CurrencyCode));
+            };
+            // Raised when an impression is recorded for an ad.
+            ad.OnAdImpressionRecorded += () =>
+            {
+                Debug.Log("Interstitial ad recorded an impression.");
+            };
+            // Raised when a click is recorded for an ad.
+            ad.OnAdClicked += () =>
+            {
+                Debug.Log("Interstitial ad was clicked.");
+            };
+            // Raised when an ad opened full screen content.
+            ad.OnAdFullScreenContentOpened += () =>
+            {
+                Debug.Log("Interstitial ad full screen content opened.");
+            };
             // Raised when the ad closed full screen content.
             ad.OnAdFullScreenContentClosed += () =>
             {
-                _interstitialAdTimer = 0;
+                Debug.Log("Interstitial ad full screen content closed.");
                 LoadInterstitialAd();
             };
             // Raised when the ad failed to open full screen content.
@@ -111,7 +132,6 @@ namespace AdMobController
             {
                 Debug.LogError("Interstitial ad failed to open full screen content " +
                                "with error : " + error);
-                
                 LoadInterstitialAd();
             };
         }

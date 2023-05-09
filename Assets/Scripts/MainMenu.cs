@@ -10,8 +10,9 @@ using AdMobController;
 
 public class MainMenu : MonoBehaviour
 {
-    private string jsonURL;
     private string jsonLocalPath;
+    private string jsonString;
+    private string jsonURL;
 
     [SerializeField] private GameObject updateWordsArea;
     [SerializeField] private Animator updateWordsAreaButtonAnim;
@@ -65,17 +66,17 @@ public class MainMenu : MonoBehaviour
         }
         else
         {
-            GameManager.jsonString = requestToGetJsonString.downloadHandler.text; // Assign requested text to jsonString variable.
-            GameManager.tabooData = JsonConvert.DeserializeObject<List<GameManager.TabooData>>(GameManager.jsonString); // Deserialize jsonString to TabooData class.
+            jsonString = requestToGetJsonString.downloadHandler.text; // Assign requested text to jsonString variable.
+            GameManager.tabooData = JsonConvert.DeserializeObject<List<GameManager.TabooData>>(jsonString); // Deserialize jsonString to TabooData class.
 
             if (!File.Exists(jsonLocalPath)) // If json file doesn't exist, create and write jsonString to it.
             {
                 File.CreateText(jsonLocalPath).Close();
-                File.WriteAllText(jsonLocalPath, GameManager.jsonString);
+                File.WriteAllText(jsonLocalPath, jsonString);
             }
             else 
             {
-                File.WriteAllText(jsonLocalPath, GameManager.jsonString); // If json file exists, just write jsonString to it.
+                File.WriteAllText(jsonLocalPath, jsonString); // If json file exists, just write jsonString to it.
             }
 
             updateWordsAreaButtonAnim.Play("UpdateWordsButtonExit");
@@ -90,22 +91,22 @@ public class MainMenu : MonoBehaviour
         {
             File.CreateText(jsonLocalPath).Close(); // Create new text file on jsonLocalPath path.
             TextAsset jsonTextAsset = Resources.Load("words-tr") as TextAsset; // Read current json file as TextAsset. (Placed in Assets/Resources/).
-            GameManager.jsonString = jsonTextAsset.text;
-            File.WriteAllText(jsonLocalPath, GameManager.jsonString); // Write jsonString to new-created text (json) file.
+            jsonString = jsonTextAsset.text;
+            File.WriteAllText(jsonLocalPath, jsonString); // Write jsonString to new-created text (json) file.
         }
         else
         {
 #if UNITY_EDITOR_WIN
-            GameManager.jsonString = (Resources.Load("words-tr") as TextAsset).text; // If json file exist, just read text (json) file.
+            jsonString = (Resources.Load("words-tr") as TextAsset).text; // If json file exist, just read text (json) file.
 #endif
 
 #if UNITY_ANDROID
-            GameManager.jsonString = File.ReadAllText(jsonLocalPath); // If json file exist, just read text (json) file.
+            jsonString = File.ReadAllText(jsonLocalPath); // If json file exist, just read text (json) file.
 #endif
         }
 
         // Deserialize jsonString to TabooData class.
-        GameManager.tabooData = JsonConvert.DeserializeObject<List<GameManager.TabooData>>(GameManager.jsonString);
+        GameManager.tabooData = JsonConvert.DeserializeObject<List<GameManager.TabooData>>(jsonString);
     }
 
     private IEnumerator WordListUpdateCheck()

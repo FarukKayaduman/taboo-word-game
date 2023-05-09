@@ -29,18 +29,19 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI pausePanelScoreTeamB;
     [SerializeField] private TextMeshProUGUI pausePanelWhoseeTurn;
 
-    private bool isPlayingTeamB;
+    private bool _isPlayingTeamB;
 
-    private bool gameStarted;
-    private bool gamePaused;
-    private int currentScore;
-    private int currentPassLimit;
-    private int currentWordIndex;
-    private float gameTime;
+    private bool _gameStarted;
+    private bool _gamePaused;
+    private int _currentScore;
+    private int _currentPassLimit;
+    private int _currentWordIndex;
     private int _gameIterationCount;
+    private int _scoreTeamA;
+    private int _scoreTeamB;
+    private float _gameTime;
 
-    public static string jsonString;
-    private List<int> randomizedIndexes;
+    private List<int> _randomizedIndexes;
 
     private void Awake()
     {
@@ -49,34 +50,27 @@ public class GameManager : MonoBehaviour
 
     private void OnEnable()
     {
-        if (!PlayerPrefs.HasKey("ScoreTeamA"))
-            PlayerPrefs.SetInt("ScoreTeamA", 0);
-
-        if (!PlayerPrefs.HasKey("ScoreTeamB"))
-            PlayerPrefs.SetInt("ScoreTeamB", 0);
-
         pausePanelNameTeamA.text = PlayerPrefs.GetString("TeamAName");
         pausePanelNameTeamB.text = PlayerPrefs.GetString("TeamBName");
-        pausePanelWhoseeTurn.text = isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
+        pausePanelWhoseeTurn.text = _isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
 
-        gameTime = PlayerPrefs.GetInt("GameTime");
-        currentTimeLeftText.text = TimeSpan.FromSeconds(gameTime).ToString("m\\:ss");
+        _gameTime = PlayerPrefs.GetInt("GameTime");
+        currentTimeLeftText.text = TimeSpan.FromSeconds(_gameTime).ToString("m\\:ss");
 
-        currentScore = 0;
+        _currentScore = 0;
         currentScoreText.text = "0";
 
         SetPassLimit();
-        
     }
 
     private void Update()
     {
-        if (gameStarted && !gamePaused)
+        if (_gameStarted && !_gamePaused)
         {
-            gameTime -= Time.deltaTime;
-            currentTimeLeftText.text = TimeSpan.FromSeconds(gameTime).ToString("m\\:ss");
+            _gameTime -= Time.deltaTime;
+            currentTimeLeftText.text = TimeSpan.FromSeconds(_gameTime).ToString("m\\:ss");
 
-            if (gameTime <= 0)
+            if (_gameTime <= 0)
             {
                 GameOver();
             }
@@ -85,12 +79,12 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
-        gameStarted = false;
+        _gameStarted = false;
         SetTeamScore();
-        gameTime = PlayerPrefs.GetInt("GameTime");
-        currentScore = 0;
-        isPlayingTeamB = !isPlayingTeamB;
-        pausePanelWhoseeTurn.text = isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
+        _gameTime = PlayerPrefs.GetInt("GameTime");
+        _currentScore = 0;
+        _isPlayingTeamB = !_isPlayingTeamB;
+        pausePanelWhoseeTurn.text = _isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
         _gameIterationCount++;
         pausePanel.SetActive(true);
         if (_gameIterationCount % 4 == 0)
@@ -101,81 +95,81 @@ public class GameManager : MonoBehaviour
 
     private void ResetGame()
     {
-        gameStarted = false;
+        _gameStarted = false;
         SetPassLimit();
-        gameTime = PlayerPrefs.GetInt("GameTime");
-        currentScore = 0;
-        currentScoreText.text = currentScore.ToString();
-        PlayerPrefs.SetInt("ScoreTeamA", 0);
-        PlayerPrefs.SetInt("ScoreTeamB", 0);
-        pausePanelScoreTeamA.text = "0";
-        pausePanelScoreTeamB.text = "0";
-        isPlayingTeamB = false;
+        _gameTime = PlayerPrefs.GetInt("GameTime");
+        _currentScore = 0;
+        currentScoreText.text = _currentScore.ToString();
+        _scoreTeamA = 0;
+        _scoreTeamB = 0;
+        pausePanelScoreTeamA.text = _scoreTeamA.ToString();
+        pausePanelScoreTeamB.text = _scoreTeamB.ToString();
+        _isPlayingTeamB = false;
     }
 
     private void SetTeamScore()
     {
-        if (isPlayingTeamB)
+        if (_isPlayingTeamB)
         {
-            PlayerPrefs.SetInt("ScoreTeamB", PlayerPrefs.GetInt("ScoreB") + currentScore);
-            pausePanelScoreTeamB.text = PlayerPrefs.GetInt("ScoreTeamB").ToString();
+            _scoreTeamB += _currentScore;
+            pausePanelScoreTeamB.text = _scoreTeamB.ToString();
         }
-        else // !(isPlayingTeamB) --> Team A plays
+        else // !(_isPlayingTeamB) --> Team A plays
         {
-            PlayerPrefs.SetInt("ScoreTeamA", PlayerPrefs.GetInt("ScoreTeamA") + currentScore);
-            pausePanelScoreTeamA.text = PlayerPrefs.GetInt("ScoreTeamA").ToString();
+            _scoreTeamA += _currentScore;
+            pausePanelScoreTeamA.text = _scoreTeamA.ToString();
         }
     }
 
     private void SetPassLimit()
     {
-        currentPassLimit = PlayerPrefs.GetInt("PassLimit");
-        currentPassLimitText.text = currentPassLimit.ToString();
+        _currentPassLimit = PlayerPrefs.GetInt("PassLimit");
+        currentPassLimitText.text = _currentPassLimit.ToString();
     }
 
     public void LoadNextWord()
     {
-        mainWordText.text = tabooData[randomizedIndexes[currentWordIndex]].Word;
+        mainWordText.text = tabooData[_randomizedIndexes[_currentWordIndex]].Word;
         for (int i = 0; i < 5; i++)
         {
-            tabooWordsTexts[i].text = tabooData[randomizedIndexes[currentWordIndex]].TabooWords[i];
+            tabooWordsTexts[i].text = tabooData[_randomizedIndexes[_currentWordIndex]].TabooWords[i];
         }
-        if(currentWordIndex != randomizedIndexes.Count - 1)
-            currentWordIndex++;
+        if(_currentWordIndex != _randomizedIndexes.Count - 1)
+            _currentWordIndex++;
         else
         {
-            currentWordIndex = 0;
+            _currentWordIndex = 0;
             SetRandomizedWordIndexes();
         }
     }
 
     private void SetRandomizedWordIndexes()
     {
-        randomizedIndexes = Enumerable.Range(0, tabooData.Count).ToList();
+        _randomizedIndexes = Enumerable.Range(0, tabooData.Count).ToList();
         System.Random random = new();
 
-        for (int i = 0; i < randomizedIndexes.Count; i++)
+        for (int i = 0; i < _randomizedIndexes.Count; i++)
         {
             int j = random.Next(i + 1);
-            (randomizedIndexes[j], randomizedIndexes[i]) = (randomizedIndexes[i], randomizedIndexes[j]);
+            (_randomizedIndexes[j], _randomizedIndexes[i]) = (_randomizedIndexes[i], _randomizedIndexes[j]);
         }
     }
 
     public void OnStartButtonClicked()
     {
-        if (!gameStarted)
+        if (!_gameStarted)
         {
-            gameStarted = true;
+            _gameStarted = true;
             LoadNextWord();
         }
-        if (gamePaused)
+        if (_gamePaused)
         {
-            gamePaused = false;
-            gameStarted = true;
+            _gamePaused = false;
+            _gameStarted = true;
         }
-        currentPassLimit = PlayerPrefs.GetInt("PassLimit");
-        currentPassLimitText.text = currentPassLimit.ToString();
-        currentScoreText.text = currentScore.ToString();
+        _currentPassLimit = PlayerPrefs.GetInt("PassLimit");
+        currentPassLimitText.text = _currentPassLimit.ToString();
+        currentScoreText.text = _currentScore.ToString();
         pausePanel.SetActive(false);
     }
 
@@ -188,30 +182,30 @@ public class GameManager : MonoBehaviour
     public void OnTimeButtonClicked()
     {
         pausePanel.SetActive(true);
-        gamePaused = true;
+        _gamePaused = true;
     }
 
     public void OnTabooButtonClicked()
     {
-        currentScore -= 1;
+        _currentScore -= 1;
         LoadNextWord();
-        currentScoreText.text = currentScore.ToString();
+        currentScoreText.text = _currentScore.ToString();
     }
 
     public void OnPassButtonClicked()
     {
-        if(currentPassLimit > 0)
+        if(_currentPassLimit > 0)
         {
-            currentPassLimit -= 1;
+            _currentPassLimit -= 1;
             LoadNextWord();
-            currentPassLimitText.text = currentPassLimit.ToString();
+            currentPassLimitText.text = _currentPassLimit.ToString();
         }
     }
 
     public void OnCorrectButtonClicked()
     {
         LoadNextWord();
-        currentScore += 1;
-        currentScoreText.text = currentScore.ToString();
+        _currentScore += 1;
+        currentScoreText.text = _currentScore.ToString();
     }
 }

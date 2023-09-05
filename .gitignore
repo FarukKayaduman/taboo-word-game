@@ -76,3 +76,5 @@ crashlytics-build.properties
 # Other ignoring files
 /[Aa]ssets/Ignore/
 /[Aa]ssets/Ignore.meta
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta

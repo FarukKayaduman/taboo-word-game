@@ -7,14 +7,6 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public class TabooData
-    {
-        public string Word { get; set; }
-        public List<string> TabooWords { get; set; }
-    }
-
-    public static List<TabooData> tabooData;
-
     [SerializeField] private TextMeshProUGUI mainWordText;
     [SerializeField] private List<TextMeshProUGUI> tabooWordsTexts;
 
@@ -42,12 +34,7 @@ public class GameManager : MonoBehaviour
     private float _gameTime;
 
     private List<int> _randomizedIndexes;
-
-    private void Awake()
-    {
-        SetRandomizedWordIndexes();
-    }
-
+    
     private void OnEnable()
     {
         pausePanelNameTeamA.text = PlayerPrefs.GetString("TeamAName");
@@ -61,6 +48,11 @@ public class GameManager : MonoBehaviour
         currentScoreText.text = "0";
 
         SetPassLimit();
+    }
+    
+    private void Start()
+    {
+        SetRandomizedWordIndexes();
     }
 
     private void Update()
@@ -127,12 +119,12 @@ public class GameManager : MonoBehaviour
         currentPassLimitText.text = _currentPassLimit.ToString();
     }
 
-    public void LoadNextWord()
+    private void LoadNextWord()
     {
-        mainWordText.text = tabooData[_randomizedIndexes[_currentWordIndex]].Word;
+        mainWordText.text = WordListController.Words[_randomizedIndexes[_currentWordIndex]].Word;
         for (int i = 0; i < 5; i++)
         {
-            tabooWordsTexts[i].text = tabooData[_randomizedIndexes[_currentWordIndex]].TabooWords[i];
+            tabooWordsTexts[i].text = WordListController.Words[_randomizedIndexes[_currentWordIndex]].TabooWords[i];
         }
         if(_currentWordIndex != _randomizedIndexes.Count - 1)
             _currentWordIndex++;
@@ -145,7 +137,7 @@ public class GameManager : MonoBehaviour
 
     private void SetRandomizedWordIndexes()
     {
-        _randomizedIndexes = Enumerable.Range(0, tabooData.Count).ToList();
+        _randomizedIndexes = Enumerable.Range(0, WordListController.Words.Count).ToList();
         System.Random random = new();
 
         for (int i = 0; i < _randomizedIndexes.Count; i++)

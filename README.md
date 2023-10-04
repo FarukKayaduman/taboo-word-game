@@ -27,7 +27,7 @@ The team that tells the most words without using forbidden ones before time runs
 
 ## Note for developers:
 To avoid errors after installation,
-- Import [Google Mobile Ads Unity Plugin v8.1.0](https://github.com/googleads/googleads-mobile-unity/releases/tag/v8.1.0) to Assets folder.
+- Import GoogleMobileAdsSettings file using [Google Mobile Ads Unity Plugin v8.5.2](https://github.com/googleads/googleads-mobile-unity/releases/tag/v8.5.2) to Assets/GoogleMobileAds/Resources folder.
 - Set your own Google AdMob App ID and set ad ID (test ID given in comment line) in [GoogleAdMobController.cs](https://github.com/FarukKayaduman/taboo-word-game/blob/main/Assets/Scripts/GoogleAdMobController.cs) script.
 
 ## Developers

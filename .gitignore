@@ -77,6 +77,21 @@ crashlytics-build.properties
 /[Aa]ssets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
 /[Aa]ssets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset.meta
 
+# Firebase Files
+Assets/Plugins/tvOS/Firebase
+Assets/Plugins/tvOS/Firebase.meta
+Assets/Editor Default Resources/Firebase
+Assets/Editor Default Resources/Firebase.meta
+Assets/Firebase
+Assets/Plugins/Android/FirebaseApp.androidlib
+Assets/Plugins/Android/FirebaseApp.androidlib.meta
+Assets/Plugins/iOS/Firebase
+Assets/Plugins/iOS/Firebase.meta
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta
+Assets/Plugins/Android/MessagingUnityPlayerActivity.java
+Assets/Plugins/Android/MessagingUnityPlayerActivity.java.meta
+
 # Other ignoring files
 /[Aa]ssets/Ignore/
 /[Aa]ssets/Ignore.meta

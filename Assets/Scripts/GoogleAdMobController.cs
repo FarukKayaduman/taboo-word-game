@@ -53,7 +53,7 @@ namespace AdMobController
             // Debug.Log("Loading the interstitial ad.");
 
             // create our request used to load the ad.
-            var adRequest = new AdRequest.Builder().Build();
+            var adRequest = new AdRequest();
 
             // send the request to load the ad.
             InterstitialAd.Load(_interstitialAdUnitId, adRequest,

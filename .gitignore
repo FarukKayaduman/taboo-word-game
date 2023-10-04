@@ -74,14 +74,14 @@ crashlytics-build.properties
 /[Aa]ssets/Plugins/iOS.meta
 
 # Firebase Directories
-Assets/StreamingAssets/google-services-desktop.json
-Assets/StreamingAssets/google-services-desktop.json.meta
-Assets/Editor Default Resources/Firebase
-Assets/Editor Default Resources/Firebase.meta
-Assets/Firebase
-Assets/Plugins/tvOS/Firebase
-Assets/Plugins/tvOS/Firebase.meta
-Assets/Firebase.meta
+#Assets/StreamingAssets/google-services-desktop.json
+#Assets/StreamingAssets/google-services-desktop.json.meta
+#Assets/Editor Default Resources/Firebase
+#Assets/Editor Default Resources/Firebase.meta
+#Assets/Firebase
+#Assets/Plugins/tvOS/Firebase
+#Assets/Plugins/tvOS/Firebase.meta
+#Assets/Firebase.meta
 
 # Other ignoring files
 /[Aa]ssets/Ignore/

@@ -79,7 +79,7 @@ public class GameManager : MonoBehaviour
         pausePanelWhoseeTurn.text = _isPlayingTeamB ? "Sıra: " + PlayerPrefs.GetString("TeamBName") : "Sıra: " + PlayerPrefs.GetString("TeamAName");
         _gameIterationCount++;
         pausePanel.SetActive(true);
-        if (_gameIterationCount % 4 == 0)
+        if (_gameIterationCount % 2 == 0)
         {
             GoogleAdMobController.Instance.ShowInterstitialAd();
         }

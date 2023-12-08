@@ -342,5 +342,273 @@
   {
     "word": "Seyahat",
     "tabooWords": [ "Turist", "Keşfetmek", "Tatil", "Uçak", "Tren" ]
+  },
+  {
+    "word": "Gökyüzü",
+    "tabooWords": [ "Bulut", "Yıldız", "Uçmak", "Mavi", "Gündüz" ]
+  },
+  {
+    "word": "Mücadele",
+    "tabooWords": [ "Zorluk", "Direniş", "Çaba", "Kazanmak", "Gelişim" ]
+  },
+  {
+    "word": "Akıl",
+    "tabooWords": [ "Düşünce", "Fikir", "Zihin", "Mantık", "Bilinç" ]
+  },
+  {
+    "word": "Görüntü",
+    "tabooWords": [ "İzlenim", "Manzara", "Renk", "Fotoğraf", "Video" ]
+  },
+  {
+    "word": "Kışkırtmak",
+    "tabooWords": [ "Provoke", "Tehdit", "Uyarı", "Tahrik", "Çatışma" ]
+  },
+  {
+    "word": "İnovasyon",
+    "tabooWords": [ "Yenilik", "Teknoloji", "Gelişim", "Yaratıcılık", "İleri" ]
+  },
+  {
+    "word": "Yatırım",
+    "tabooWords": [ "Para", "Kâr", "Risk", "Portföy", "Borsa" ]
+  },
+  {
+    "word": "Gizlilik",
+    "tabooWords": [ "Mahremiyet", "Sır", "Sözleşme", "Gözetim", "Açıklık" ]
+  },
+  {
+    "word": "Ritim",
+    "tabooWords": [ "Tempo", "Müzik", "Melodi", "Dans", "Vuruş" ]
+  },
+  {
+    "word": "Harmoni",
+    "tabooWords": [ "Uyum", "Dengeli", "Müzik", "Anlaşma", "İlişki" ]
+  },
+  {
+    "word": "Entelektüel",
+    "tabooWords": [ "Bilgili", "Düşünce", "Kültür", "Felsefe", "Öğrenme" ]
+  },
+  {
+    "word": "Alternatif",
+    "tabooWords": [ "Seçenek", "Varyasyon", "Farklılık", "Değişik", "Opsiyon" ]
+  },
+  {
+    "word": "Farkındalık",
+    "tabooWords": [ "Bilinç", "Anlama", "Duyarlılık", "Bilinçli", "Algı" ]
+  },
+  {
+    "word": "İnsanlık",
+    "tabooWords": [ "Toplum", "Medeniyet", "Bitmek", "Haklar", "Dünya" ]
+  },
+  {
+    "word": "Kreatif",
+    "tabooWords": [ "Yaratıcı", "Sanat", "Düşünce", "İnovatif", "Üretken" ]
+  },
+  {
+    "word": "Proje",
+    "tabooWords": [ "Plan", "Girişim", "Uygulama", "İş", "Strateji" ]
+  },
+  {
+    "word": "Felsefe",
+    "tabooWords": [ "Düşünce", "Fikir", "Metafizik", "Akıl", "Öğreti" ]
+  },
+  {
+    "word": "Denge",
+    "tabooWords": [ "Eşitlik", "Stabilite", "Uyum", "Ağırlık", "İstikrar" ]
+  },
+  {
+    "word": "Vizyon",
+    "tabooWords": [ "Gelecek", "Hedef", "Perspektif", "Planlama", "Görüş" ]
+  },
+  {
+    "word": "Küresel",
+    "tabooWords": [ "Dünya", "Uluslararası", "Evrensel", "Global", "Toplumsal" ]
+  },
+  {
+    "word": "Liderlik",
+    "tabooWords": [ "Yönetim", "Önderlik", "Güdüleme", "Vizyoner", "Sorumluluk" ]
+  },
+  {
+    "word": "Enerji",
+    "tabooWords": [ "Dilan", "Güç", "Canlılık", "Elektrik", "Kaynak" ]
+  },
+  {
+    "word": "Meditasyon",
+    "tabooWords": [ "Rahatlama", "Zihin", "Odaklanma", "Ruhsal", "Nefes" ]
+  },
+  {
+    "word": "Gelişim",
+    "tabooWords": [ "İlerleme", "Değişim", "Büyüme", "Kişisel", "Dönüşüm" ]
+  },
+  {
+    "word": "Bilinçaltı",
+    "tabooWords": [ "Zihin", "Bilinç", "Farkındalık", "Altında", "Bilgi" ]
+  },
+  {
+    "word": "Sosyal Medya",
+    "tabooWords": [ "İnternet", "Platform", "Paylaşım", "Takip", "Dijital" ]
+  },
+  {
+    "word": "Koordinasyon",
+    "tabooWords": [ "Uyum", "İşbirliği", "Düzen", "Eşgüdüm", "Entegrasyon" ]
+  },
+  {
+    "word": "Bilim",
+    "tabooWords": [ "Araştırma", "Keşif", "Teknoloji", "Bilgi", "Deney" ]
+  },
+  {
+    "word": "Motivasyon",
+    "tabooWords": [ "Hedef", "İstek", "Enerji", "Tutku", "Heyecan" ]
+  },
+  {
+    "word": "Strateji",
+    "tabooWords": [ "Plan", "Hedef", "Taktik", "Yol Haritası", "Uygulama" ]
+  },
+  {
+    "word": "Ekosistem",
+    "tabooWords": [ "Çevre", "Canlılar", "Doğal", "Dengeli", "Yaşam" ]
+  },
+  {
+    "word": "Adanmışlık",
+    "tabooWords": [ "Bağlılık", "Sadakat", "Fedakarlık", "Görev", "Sorumluluk" ]
+  },
+  {
+    "word": "Estetik",
+    "tabooWords": [ "Güzellik", "Sanat", "Harmoni", "Çekicilik", "Görsel" ]
+  },
+  {
+    "word": "Eğlence",
+    "tabooWords": [ "Keyif", "Zevk", "Etkinlik", "Mizah", "Eğlendirmek" ]
+  },
+  {
+    "word": "Konsantrasyon",
+    "tabooWords": [ "Odaklanma", "Dikkat", "Zihin", "Performans", "Uyum" ]
+  },
+  {
+    "word": "Dijital",
+    "tabooWords": [ "Teknoloji", "Elektronik", "İnternet", "Dijitalleşme", "Sanal" ]
+  },
+  {
+    "word": "Ekip",
+    "tabooWords": [ "Takım", "İşbirliği", "Grup", "Kollektif", "Birlikte" ]
+  },
+  {
+    "word": "Bilinçli Tüketim",
+    "tabooWords": [ "Sürdürülebilirlik", "Farkındalık", "Seçim", "Çevre", "Etki" ]
+  },
+  {
+    "word": "İletişim",
+    "tabooWords": [ "Diyalog", "Bağlantı", "İfade", "Telefon", "Mesaj" ]
+  },
+  {
+    "word": "Dayanışma",
+    "tabooWords": [ "Yardım", "Destek", "Birlik", "Toplum", "Paylaşım" ]
+  },
+  {
+    "word": "Gönüllülük",
+    "tabooWords": [ "İstek", "Katılım", "Bağış", "Sivil Toplum", "Hizmet" ]
+  },
+  {
+    "word": "Kültür",
+    "tabooWords": [ "Sanat", "Değer", "Gelenek", "Miras", "Toplum" ]
+  },
+  {
+    "word": "Dil",
+    "tabooWords": [ "Konuşma", "İletişim", "Kelime", "Anlam", "Yazılı" ]
+  },
+  {
+    "word": "Bereket",
+    "tabooWords": [ "Bolluk", "Zenginlik", "Bereketli", "Fazla", "Rahatlık" ]
+  },
+  {
+    "word": "İnanç",
+    "tabooWords": [ "Din", "İslam", "Tanrı", "İman", "Manevi" ]
+  },
+  {
+    "word": "Kucaklama",
+    "tabooWords": [ "Sarılma", "Sevgi", "Hoşgörü", "İlgi", "Yakınlaşma" ]
+  },
+  {
+    "word": "Güzellik",
+    "tabooWords": [ "Estetik", "Çekicilik", "Görsel", "Hoş", "Harika" ]
+  },
+  {
+    "word": "Umut",
+    "tabooWords": [ "Optimizm", "Gelecek", "Işık", "Hayal", "Moral" ]
+  },
+  {
+    "word": "Saygı",
+    "tabooWords": [ "Hürmet", "Değer", "İtibar", "Sadakat", "Kibarlık" ]
+  },
+  {
+    "word": "Merhamet",
+    "tabooWords": [ "Yardımseverlik", "İnsancıl", "Acıma", "Duygusal", "Şefkat" ]
+  },
+  {
+    "word": "Sevinç",
+    "tabooWords": [ "Mutluluk", "Neşe", "Coşku", "Keyif", "Kutlama" ]
+  },
+  {
+    "word": "Bilgelik",
+    "tabooWords": [ "Akıl", "Deneyim", "Hikmet", "Anlayış", "Öğreti" ]
+  },
+  {
+    "word": "Tolerans",
+    "tabooWords": [ "Hoşgörü", "Kabul", "Anlayış", "Saygı", "İleri Görüşlülük" ]
+  },
+  {
+    "word": "Barış",
+    "tabooWords": [ "Uzlaşma", "Denge", "Huzur", "Sükunet", "Dostluk" ]
+  },
+  {
+    "word": "Yaratıcılık",
+    "tabooWords": [ "Sanat", "İnovasyon", "Düşünce", "Üretkenlik", "Yenilik" ]
+  },
+  {
+    "word": "Adalet",
+    "tabooWords": [ "Eşitlik", "Hakkaniyet", "Dürüstlük", "Mahkeme", "Hak" ]
+  },
+  {
+    "word": "Sabır",
+    "tabooWords": [ "Tahammül", "Dayanma", "Bekleme", "Sakinlik", "Direniş" ]
+  },
+  {
+    "word": "Özgürlük",
+    "tabooWords": [ "Bağımsızlık", "Hürriyet", "Serbestlik", "Kendi Başına", "Seçme" ]
+  },
+  {
+    "word": "Doğa Sevgisi",
+    "tabooWords": [ "Çevre", "Yeşil", "Ağaç", "Hayvan", "Eko" ]
+  },
+  {
+    "word": "İyi Niyet",
+    "tabooWords": [ "Samimiyet", "Dürüstlük", "İyi Kalp", "Güven", "Saf" ]
+  },
+  {
+    "word": "Optimizm",
+    "tabooWords": [ "Pozitiflik", "Umut", "İyimserlik", "Güven", "Olumlu" ]
+  },
+  {
+    "word": "Anı Yaşa",
+    "tabooWords": [ "Şimdi", "Keyif", "Tatmin", "His", "Carpe Diem" ]
+  },
+  {
+    "word": "Mükemmeliyet",
+    "tabooWords": [ "Üstünlük", "Kusursuz", "En İyi", "Kalite", "Tamamlanmış" ]
+  },
+  {
+    "word": "Hoşgörülü",
+    "tabooWords": [ "Anlayışlı", "Sabırlı", "Saygılı", "Kibar", "Kabul Edici" ]
+  },
+  {
+    "word": "Dostluk",
+    "tabooWords": [ "Arkadaşlık", "Sadakat", "Paylaşım", "Güven", "Beraberlik" ]
+  },
+  {
+    "word": "Bilinç",
+    "tabooWords": [ "Farkındalık", "Zihin", "Düşünce", "Bilgi", "Ayıklık" ]
+  },
+  {
+    "word": "Şükran",
+    "tabooWords": [ "Minnettarlık", "Teşekkür", "Emin Olma", "Tanışma", "Beğenme" ]
   }
 ]

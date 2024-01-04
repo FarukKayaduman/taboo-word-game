@@ -3,14 +3,10 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class OptionsPanel : MonoBehaviour
 {
     [SerializeField] private TMP_InputField teamANameInputField;
     [SerializeField] private TMP_InputField teamBNameInputField;
-
-    [SerializeField] private TextMeshProUGUI teamAName;
-    [SerializeField] private TextMeshProUGUI teamBName;
 
     [SerializeField] private TextMeshProUGUI timeText;
     [SerializeField] private Slider timeSlider;
@@ -18,56 +14,50 @@ public class OptionsPanel : MonoBehaviour
     [SerializeField] private TextMeshProUGUI passText;
     [SerializeField] private Slider passSlider;
 
-    private int gameTime;
-    private int passLimit;
-
+    [SerializeField] private TextMeshProUGUI gameVersionText;
+    [SerializeField] private TextMeshProUGUI wordsListVersionText;
+    
+    private int _gameTime;
+    private int _passLimit;
+    
     private void OnEnable()
     {
-        teamAName.text = PlayerPrefs.GetString("TeamAName", teamAName.text);
-        teamBName.text = PlayerPrefs.GetString("TeamBName", teamBName.text);
+        teamANameInputField.text = PlayerPrefs.GetString("TeamAName");
+        teamBNameInputField.text = PlayerPrefs.GetString("TeamBName");
+        SetVersionTexts();
         SetTime();
         SetPassLimit();
-        SaveOptions();
-    }
-
-    private void OnDisable()
-    {
-        SaveOptions();
-    }
-
-    public void SetNameTeamA()
-    {
-        teamAName.text = teamANameInputField.text;
-    }
-
-    public void SetNameTeamB()
-    {
-        teamBName.text = teamBNameInputField.text;
     }
 
     public void SetTime()
     {
-        gameTime = (int)timeSlider.value * 15;
-
-        timeText.text = TimeSpan.FromSeconds(gameTime).ToString("mm\\:ss");
+        _gameTime = (int)timeSlider.value * 15;
+        timeText.text = TimeSpan.FromSeconds(_gameTime).ToString("mm\\:ss");
     }
 
     public void SetPassLimit()
     {
-        passText.text = passSlider.value.ToString();
-        passLimit = (int)passSlider.value;
+        passText.text = $"{passSlider.value}";
+        _passLimit = (int)passSlider.value;
     }
 
-    public void SaveOptions()
+    private void SetVersionTexts()
     {
-        PlayerPrefs.SetString("TeamAName", teamAName.text);
-        PlayerPrefs.SetString("TeamBName", teamBName.text);
-        PlayerPrefs.SetInt("GameTime", gameTime);
-        PlayerPrefs.SetInt("PassLimit", passLimit);
+        gameVersionText.text = $"Sürüm: v{Application.version}";
+        wordsListVersionText.text = $"Kelime Listesi: v{WordListController.WordsVersionLocal}";
+    }
+
+    private void SaveOptions()
+    {
+        PlayerPrefs.SetString("TeamAName", teamANameInputField.text);
+        PlayerPrefs.SetString("TeamBName", teamBNameInputField.text);
+        PlayerPrefs.SetInt("GameTime", _gameTime);
+        PlayerPrefs.SetInt("PassLimit", _passLimit);
     }
 
     public void OnBackButtonClicked()
     {
+        SaveOptions();
         gameObject.SetActive(false);
     }
 }

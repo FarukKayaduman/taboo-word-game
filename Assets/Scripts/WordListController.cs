@@ -21,7 +21,9 @@ public class TabooData
 
 public class WordListController : MonoBehaviour
 {
-    private string _wordsVersionLocal = "0.0.1";
+    private static string _wordsVersionLocal = "0.0.2";
+    public static string WordsVersionLocal => _wordsVersionLocal;
+    
     private string _wordsVersionRemote;
     private string _wordsLocalPath;
     private string _wordsVersionsLocalPath;

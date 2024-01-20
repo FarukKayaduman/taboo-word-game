@@ -7,12 +7,10 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject GameUIPrefab;
     [SerializeField] private GameObject MainMenuPrefab;
     [SerializeField] private GameObject OptionsPanelPrefab;
-    [SerializeField] private GameObject AboutPanelPrefab;
-
+    
     [HideInInspector] public GameObject GameplayUI;
     [HideInInspector] public GameObject MainMenuUI;
     [HideInInspector] public GameObject OptionsPanel;
-    [HideInInspector] public GameObject AboutPanel;
 
     private void Awake()
     {
@@ -34,12 +32,10 @@ public class UIManager : MonoBehaviour
     {
         MainMenuUI = Instantiate(MainMenuPrefab, transform);
         OptionsPanel = Instantiate(OptionsPanelPrefab, transform);
-        AboutPanel = Instantiate(AboutPanelPrefab, transform);
         GameplayUI = Instantiate(GameUIPrefab, transform);
 
         MainMenuUI.SetActive(true);
         OptionsPanel.SetActive(false);
-        AboutPanel.SetActive(false);
         GameplayUI.SetActive(false);
     }
 }

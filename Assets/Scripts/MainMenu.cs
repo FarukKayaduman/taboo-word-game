@@ -28,9 +28,4 @@ public class MainMenu : MonoBehaviour
     {
         UIManager.Instance.OptionsPanel.SetActive(true);
     }
-
-    public void OnAboutButtonClicked()
-    {
-        UIManager.Instance.AboutPanel.SetActive(true);
-    }
 }

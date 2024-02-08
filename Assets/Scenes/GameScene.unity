@@ -158,11 +158,9 @@ MonoBehaviour:
   GameUIPrefab: {fileID: 862035512735962742, guid: 534fc1e54cfc7b047bfda94bdbb783e2, type: 3}
   MainMenuPrefab: {fileID: 5181153616770529502, guid: a441bdc504776604dbe227da43645a23, type: 3}
   OptionsPanelPrefab: {fileID: 298569844320906984, guid: 792dc6ad902cad54a98b0e3bb9167820, type: 3}
-  AboutPanelPrefab: {fileID: 4259522609598679038, guid: 5268cfc88da7afc4e934b55c10ff02fb, type: 3}
   GameplayUI: {fileID: 0}
   MainMenuUI: {fileID: 0}
   OptionsPanel: {fileID: 0}
-  AboutPanel: {fileID: 0}
 --- !u!114 &226951647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -220,6 +218,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0

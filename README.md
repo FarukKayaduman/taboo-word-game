@@ -21,7 +21,7 @@ The team that tells the most words without using forbidden ones before time runs
 
 ## In-Game Screenshots
 <pre>
-<img src="https://user-images.githubusercontent.com/54947066/209368877-1f4a3837-5076-4d46-837b-a7ec18228f20.jpg" width="180">  <img src="https://user-images.githubusercontent.com/54947066/209368980-a9dadcde-f9a6-436c-9bd0-0eea2988edd9.jpg" width="180">  <img src="https://user-images.githubusercontent.com/54947066/209369197-f2155469-82b5-4373-9491-45b4f785e3db.jpg" width="180">  <img src="https://user-images.githubusercontent.com/54947066/209369503-ca920f33-64ca-477b-a857-a6880a91e43f.jpg" width="180">  <img src="https://user-images.githubusercontent.com/54947066/209369744-f544fb21-1375-4761-9d82-ed04d7583528.jpg" width="180">
+<img src="https://user-images.githubusercontent.com/54947066/209368877-1f4a3837-5076-4d46-837b-a7ec18228f20.jpg" width="180">  <img src="https://github.com/FarukKayaduman/taboo-word-game/assets/54947066/22d959a2-86b3-493e-bacb-905e82651630" width="180">  <img src="https://github.com/FarukKayaduman/taboo-word-game/assets/54947066/42ffb2e4-7170-42d5-8972-a082141639f7" width="180">  <img src="https://github.com/FarukKayaduman/taboo-word-game/assets/54947066/7a567ed5-be5e-4a49-9d5e-68b87359d58f" width="180">  <img src="https://github.com/FarukKayaduman/taboo-word-game/assets/54947066/e7e1abf4-d304-4476-8b1f-68e1f42b569b" width="180">
 </pre>
 <br>
 
@@ -35,7 +35,7 @@ To avoid errors after installation,
 - [Faruk Kayaduman](https://www.linkedin.com/in/farukkayaduman/)
 
 ## Development Tools
-* [Unity Engine v2021.3.15f1](https://unity.com/)
+* [Unity Engine v2021.3.34f1](https://unity.com/)
 * [JetBrains Rider Editor](https://www.jetbrains.com/rider/)
 
 ## External Resources

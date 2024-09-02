@@ -400,3 +400,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa033362b1a7a9a45876d713580a1a01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  purchaseInfoSO: {fileID: 11400000, guid: 19ebac5b6a995b648bccd080a0ef65a9, type: 2}

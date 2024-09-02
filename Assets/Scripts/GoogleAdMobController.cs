@@ -1,11 +1,12 @@
 using GoogleMobileAds.Api;
-using System;
 using UnityEngine;
 
 namespace AdMobController
 {
     public class GoogleAdMobController : MonoBehaviour
     {
+        [SerializeField] private PurchaseInfoSO purchaseInfoSO;
+        
         public static GoogleAdMobController Instance;
 
         private InterstitialAd _interstitialAd;
@@ -29,7 +30,8 @@ namespace AdMobController
             // Initialize the Google Mobile Ads SDK.
             MobileAds.Initialize((InitializationStatus initStatus) =>
             {
-                LoadInterstitialAd();
+                if(!purchaseInfoSO.RemoveAdsPurchased)
+                    LoadInterstitialAd();
             });
         }
 
@@ -41,7 +43,7 @@ namespace AdMobController
         /// <summary>
         /// Loads the interstitial ad.
         /// </summary>
-        public void LoadInterstitialAd()
+        private void LoadInterstitialAd()
         {
             // Clean up the old ad before loading a new one.
             if (_interstitialAd != null)
@@ -78,6 +80,9 @@ namespace AdMobController
         /// </summary>
         public void ShowInterstitialAd()
         {
+            if(purchaseInfoSO.RemoveAdsPurchased)
+                return;
+            
             if (_interstitialAdTimer < _adCooldownSecond)
             {
                 // Debug.LogError("On cooldown for interstitial ad.");

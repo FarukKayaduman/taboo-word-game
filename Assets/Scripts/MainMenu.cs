@@ -3,8 +3,16 @@ using AdMobController;
 
 public class MainMenu : MonoBehaviour
 {
+    [SerializeField] private PurchaseInfoSO purchaseInfoSO;
+    [SerializeField] private GameObject removeAdsPanel;
+
+    public static MainMenu Instance;
+    
     private void Awake()
     {
+        if (Instance == null)
+            Instance = this;
+        
         if (!PlayerPrefs.HasKey("PassLimit"))
             PlayerPrefs.SetInt("PassLimit", 3);
 
@@ -18,6 +26,11 @@ public class MainMenu : MonoBehaviour
             PlayerPrefs.SetString("TeamBName", "Takım B");
     }
     
+    public void SetRemoveAdsPanelVisibility(bool isEnabled)
+    {
+        removeAdsPanel.SetActive(isEnabled);
+    }
+
     public void OnNewGameButtonClicked()
     {
         UIManager.Instance.GameplayUI.SetActive(true);

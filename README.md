@@ -35,7 +35,7 @@ To avoid errors after installation,
 - [Faruk Kayaduman](https://www.linkedin.com/in/farukkayaduman/)
 
 ## Development Tools
-* [Unity Engine v2021.3.34f1](https://unity.com/)
+* [Unity Engine v2022.3.39f1](https://unity.com/)
 * [JetBrains Rider Editor](https://www.jetbrains.com/rider/)
 
 ## External Resources
